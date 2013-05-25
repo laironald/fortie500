@@ -1,0 +1,501 @@
+rank	url	company
+1	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2255.html	Wal-Mart Stores
+2	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/387.html	Exxon Mobil
+3	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/385.html	Chevron
+4	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/170.html	General Electric
+5	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2580.html	Bank of America Corp.
+6	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/327.html	ConocoPhillips
+7	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2756.html	AT&amp;T
+8	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/160.html	Ford Motor
+9	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2608.html	J.P. Morgan Chase &amp; Co.
+10	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/206.html	Hewlett-Packard
+11	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/980.html	Berkshire Hathaway
+12	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2927.html	Citigroup
+13	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2773.html	Verizon Communications
+14	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2219.html	McKesson
+15	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/175.html	General Motors
+16	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2469.html	American International Group
+17	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/3052.html	Cardinal Health
+18	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2269.html	CVS Caremark
+19	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2578.html	Wells Fargo
+20	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/225.html	International Business Machines
+21	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/3147.html	UnitedHealth Group
+22	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/334.html	Procter &amp; Gamble
+23	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2291.html	Kroger
+24	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2849.html	AmerisourceBergen
+25	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2649.html	Costco Wholesale
+26	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10620.html	Valero Energy
+27	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/36.html	Archer Daniels Midland
+28	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/59.html	Boeing
+29	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2968.html	Home Depot
+30	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2303.html	Target
+31	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10186.html	WellPoint
+32	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2275.html	Walgreen
+33	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/235.html	Johnson &amp; Johnson
+34	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10199.html	State Farm Insurance Cos.
+35	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/11112.html	Medco Health Solutions
+36	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/3063.html	Microsoft
+37	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/421.html	United Technologies
+38	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/1053.html	Dell
+39	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10777.html	Goldman Sachs Group
+40	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/324.html	Pfizer
+41	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/427.html	Marathon Oil
+42	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2686.html	Lowe's
+43	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2071.html	United Parcel Service
+44	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/263.html	Lockheed Martin
+45	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10034.html	Best Buy
+46	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/134.html	Dow Chemical
+47	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2198.html	Supervalu
+48	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2292.html	Sears Holdings
+49	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/11431.html	International Assets Holding
+50	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/321.html	PepsiCo
+51	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2358.html	MetLife
+52	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2908.html	Safeway
+53	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/293.html	Kraft Foods
+54	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/3018.html	Freddie Mac
+55	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2197.html	Sysco
+56	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/670.html	Apple
+57	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2190.html	Walt Disney
+58	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/5009.html	Cisco Systems
+59	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/5035.html	Comcast
+60	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2067.html	FedEx
+61	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/305.html	Northrop Grumman
+62	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/642.html	Intel
+63	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10886.html	Aetna
+64	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2350.html	New York Life Insurance
+65	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10208.html	Prudential Financial
+66	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/81.html	Caterpillar
+67	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2015.html	Sprint Nextel
+68	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10384.html	Allstate
+69	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/169.html	General Dynamics
+70	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/3515.html	Morgan Stanley
+71	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10009.html	Liberty Mutual Insurance Group
+72	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/100.html	Coca-Cola
+73	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2212.html	Humana
+74	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/11.html	Honeywell International
+75	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/4.html	Abbott Laboratories
+76	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/6213.html	News Corp.
+77	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10015.html	HCA
+78	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/396.html	Sunoco
+79	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/204.html	Hess
+80	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10511.html	Ingram Micro
+81	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2434.html	Fannie Mae
+82	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10472.html	Time Warner
+83	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/236.html	Johnson Controls
+84	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2126.html	Delta Air Lines
+85	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/280.html	Merck
+86	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/136.html	DuPont
+87	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/556.html	Tyson Foods
+88	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2493.html	American Express
+89	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2681.html	Rite Aid
+90	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10606.html	TIAA-CREF
+91	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2999.html	CHS
+92	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/11373.html	Enterprise GP Holdings
+93	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2359.html	Massachusetts Mutual Life Insurance
+94	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/11473.html	Philip Morris International
+95	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/342.html	Raytheon
+96	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10592.html	Express Scripts
+97	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10451.html	Hartford Financial Services
+98	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2490.html	Travelers Cos.
+99	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2248.html	Publix Super Markets
+100	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10810.html	Amazon.com
+101	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10161.html	Staples
+102	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/11207.html	Google
+103	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2302.html	Macy's
+104	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/229.html	International Paper
+105	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/3057.html	Oracle
+106	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/284.html	3M
+107	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/128.html	Deere
+108	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2262.html	McDonald's
+109	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/5048.html	Tech Data
+110	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/288.html	Motorola
+111	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10893.html	Fluor
+112	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/259.html	Eli Lilly
+113	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/910.html	Coca-Cola Enterprises
+114	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/64.html	Bristol-Myers Squibb
+115	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10209.html	Northwestern Mutual
+116	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/11151.html	DirecTV Group
+117	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/143.html	Emerson Electric
+118	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10192.html	Nationwide
+119	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2271.html	TJX
+120	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2135.html	AMR
+121	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2950.html	U.S. Bancorp
+122	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/11409.html	GMAC
+123	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2576.html	PNC Financial Services Group
+124	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2184.html	Nike
+125	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/289.html	Murphy Oil
+126	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/249.html	Kimberly-Clark
+127	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/15.html	Alcoa
+128	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/11014.html	Plains All American Pipeline
+129	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2488.html	Cigna
+130	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2416.html	AFLAC
+131	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/11590.html	Time Warner Cable
+132	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/3160.html	United Services Automobile Association
+133	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2284.html	J.C. Penney
+134	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2024.html	Exelon
+135	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10120.html	Kohl's
+136	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/445.html	Whirlpool
+137	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/326.html	Altria Group
+138	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2211.html	Computer Sciences
+139	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/553.html	Tesoro
+140	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2102.html	UAL
+141	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/185.html	Goodyear Tire &amp; Rubber
+142	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2161.html	Avnet
+143	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2149.html	Manpower
+144	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10388.html	Capital One Financial
+145	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2021.html	Southern
+146	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10315.html	Health Net
+147	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2044.html	FPL Group
+148	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10708.html	L-3 Communications
+149	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2055.html	Constellation Energy
+150	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/309.html	Occidental Petroleum
+151	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/101.html	Colgate-Palmolive
+152	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/451.html	Xerox
+153	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2014.html	Dominion Resources
+154	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10455.html	Freeport-McMoRan Copper &amp; Gold
+155	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/174.html	General Mills
+156	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10550.html	AES
+157	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/3008.html	Arrow Electronics
+158	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2214.html	Halliburton
+159	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/1057.html	Amgen
+160	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/719.html	Medtronic
+161	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/3002.html	Progressive
+162	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/3024.html	Gap
+163	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/728.html	Smithfield Foods
+164	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2103.html	Union Pacific
+165	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2444.html	Loews
+166	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/5000.html	EMC
+167	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2123.html	Burlington Northern Santa Fe
+168	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10514.html	Coventry Health Care
+169	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/497.html	Illinois Tool Works
+170	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/11294.html	Viacom
+171	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2689.html	Toys &quot;R&quot; Us
+172	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2058.html	American Electric Power
+173	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2031.html	PG&amp;E Corp.
+174	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10794.html	Pepsi Bottling
+175	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2051.html	Consolidated Edison
+176	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2485.html	Chubb
+177	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2901.html	CBS
+178	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/299.html	ConAgra Foods
+179	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2032.html	FirstEnergy
+180	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/108.html	Sara Lee
+181	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2046.html	Duke Energy
+182	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10588.html	National Oilwell Varco
+183	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2065.html	Continental Airlines
+184	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/242.html	Kellogg
+185	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/566.html	Baxter International
+186	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2022.html	Public Service Enterprise Group
+187	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2020.html	Edison International
+188	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10631.html	Qwest Communications
+189	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2309.html	Aramark
+190	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/316.html	PPG Industries
+191	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10904.html	Community Health Systems
+192	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10136.html	Office Depot
+193	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/11419.html	KBR
+194	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/141.html	Eaton
+195	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10094.html	Dollar General
+196	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10533.html	Waste Management
+197	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/11092.html	Monsanto
+198	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/3006.html	Omnicom Group
+199	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10650.html	Jabil Circuit
+200	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10834.html	DISH Network
+201	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/11190.html	TRW Automotive Holdings
+202	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/226.html	Navistar International
+203	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2742.html	Jacobs Engineering Group
+204	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/881.html	Sun Microsystems
+205	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10860.html	World Fuel Services
+206	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/632.html	Nucor
+207	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/827.html	Danaher
+208	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10597.html	Dean Foods
+209	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10137.html	Oneok
+210	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/11237.html	Liberty Global
+211	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10958.html	United States Steel
+212	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10493.html	AutoNation
+213	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10664.html	Marriott International
+214	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2981.html	ITT
+215	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10218.html	SAIC
+216	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10556.html	Yum Brands
+217	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/3005.html	BB&amp;T Corp.
+218	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/120.html	Cummins
+219	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2039.html	Entergy
+220	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/408.html	Textron
+221	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2402.html	Marsh &amp; McLennan
+222	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2099.html	US Airways Group
+223	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/407.html	Texas Instruments
+224	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2586.html	SunTrust Banks
+225	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10570.html	Qualcomm
+226	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/252.html	Land O'Lakes
+227	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/11022.html	Liberty Media
+228	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/46.html	Avon Products
+229	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2068.html	Southwest Airlines
+230	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/319.html	Parker Hannifin
+231	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/11253.html	Mosaic
+232	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10558.html	BJ's Wholesale Club
+233	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/201.html	H.J. Heinz
+234	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/951.html	Thermo Fisher Scientific
+235	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2343.html	Unum Group
+236	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2216.html	Genuine Parts
+237	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2367.html	Guardian Life Ins. Co. of America
+238	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10679.html	Peter Kiewit Sons'
+239	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2011.html	Progress Energy
+240	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/133.html	R.R. Donnelley &amp; Sons
+241	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10567.html	Starbucks
+242	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/1012.html	Lear
+243	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/459.html	Baker Hughes
+244	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2033.html	Xcel Energy
+245	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10526.html	Penske Automotive Group
+246	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2018.html	Energy Future Holdings
+247	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2297.html	Great Atlantic &amp; Pacific Tea
+248	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2987.html	Fifth Third Bancorp
+249	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2527.html	State Street Corp.
+250	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/3084.html	First Data
+251	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2023.html	Pepco Holdings
+252	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10820.html	URS
+253	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2176.html	Tenet Healthcare
+254	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2684.html	Regions Financial
+255	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/11234.html	GameStop
+256	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2497.html	Lincoln National
+257	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/11295.html	Genworth Financial
+258	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/11126.html	XTO Energy
+259	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2069.html	CSX
+260	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10849.html	Anadarko Petroleum
+261	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10923.html	Devon Energy
+262	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/5019.html	Praxair
+263	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/11201.html	NRG Energy
+264	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/3069.html	Harrah's Entertainment
+265	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2227.html	Automatic Data Processing
+266	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10203.html	Principal Financial
+267	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/11070.html	eBay
+268	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/11193.html	Assurant
+269	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2778.html	Limited Brands
+270	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2858.html	Nordstrom
+271	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10479.html	Apache
+272	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10808.html	Reynolds American
+273	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/8.html	Air Products &amp; Chemicals
+274	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2612.html	Bank of New York Mellon Corp.
+275	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2041.html	CenterPoint Energy
+276	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2828.html	Williams
+277	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/542.html	Smith International
+278	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10754.html	Republic Services
+279	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10448.html	Boston Scientific
+280	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/41.html	Ashland
+280	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10043.html	Sempra Energy
+282	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/318.html	Paccar
+283	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10003.html	Owens &amp; Minor
+284	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10572.html	Whole Foods Market
+285	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2047.html	DTE Energy
+286	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/11467.html	Discover Financial Services
+287	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2116.html	Norfolk Southern
+288	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/11322.html	Ameriprise Financial
+289	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/118.html	Crown Holdings
+290	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/11357.html	Icahn Enterprises
+291	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/510.html	Masco
+292	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10071.html	Cablevision Systems
+293	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10421.html	Huntsman
+294	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/11251.html	Synnex
+295	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/604.html	Newmont Mining
+296	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/11109.html	Chesapeake Energy
+297	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/140.html	Eastman Kodak
+298	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2430.html	Aon
+299	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/73.html	Campbell Soup
+300	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2027.html	PPL
+301	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10666.html	C.H. Robinson Worldwide
+302	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10178.html	Integrys Energy Group
+303	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10577.html	Quest Diagnostics
+304	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/883.html	Western Digital
+305	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10103.html	Family Dollar Stores
+306	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2273.html	Winn-Dixie Stores
+307	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/626.html	Ball
+308	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10377.html	Estée Lauder
+309	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10994.html	Shaw Group
+310	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/558.html	VF
+311	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10394.html	Darden Restaurants
+312	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/51.html	Becton Dickinson
+313	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/60.html	OfficeMax
+314	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10612.html	Bed Bath &amp; Beyond
+315	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10411.html	Kinder Morgan
+316	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10153.html	Ross Stores
+317	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/884.html	Pilgrim's Pride
+318	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2941.html	Hertz Global Holdings
+319	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/371.html	Sherwin-Williams
+320	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2016.html	Ameren
+321	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/11588.html	Reinsurance Group of America
+322	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/315.html	Owens-Illinois
+323	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/11105.html	CarMax
+324	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/11185.html	Gilead Sciences
+325	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/955.html	Precision Castparts
+326	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/11464.html	Visa
+327	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2230.html	Commercial Metals
+328	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/11223.html	WellCare Health Plans
+329	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10059.html	AutoZone
+330	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/11331.html	Western Refining
+331	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2187.html	Dole Food
+332	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10875.html	Charter Communications
+333	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/1090.html	Stryker
+334	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/184.html	Goodrich
+335	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10932.html	Visteon
+336	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10040.html	NiSource
+337	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/5004.html	AGCO
+338	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10899.html	Calpine
+339	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10605.html	Henry Schein
+340	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/212.html	Hormel Foods
+341	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10744.html	Affiliated Computer Services
+342	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/5052.html	Thrivent Financial for Lutherans
+343	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10867.html	Yahoo
+344	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10520.html	American Family Insurance Group
+345	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10677.html	Sonic Automotive
+346	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10949.html	Peabody Energy
+347	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10707.html	Omnicare
+348	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2822.html	Dillard's
+349	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2139.html	W.W. Grainger
+350	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2049.html	CMS Energy
+351	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/30.html	Fortune Brands
+352	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/11420.html	AECOM Technology
+353	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/11073.html	Symantec
+354	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2662.html	SLM
+355	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10728.html	DaVita
+356	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2540.html	KeyCorp
+357	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/440.html	MeadWestvaco
+358	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2144.html	Interpublic Group
+359	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/11115.html	Virgin Media
+360	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10269.html	MGM Mirage
+361	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10573.html	First American Corp.
+362	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/458.html	Avery Dennison
+363	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/277.html	McGraw-Hill
+364	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/11129.html	Enbridge Energy Partners
+365	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/1082.html	Ecolab
+366	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/11370.html	Fidelity National Financial
+367	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/583.html	Dover
+368	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/11356.html	Global Partners
+369	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10410.html	UGI
+370	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/575.html	Gannett
+371	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/198.html	Harris
+372	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10061.html	Barnes &amp; Noble
+373	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/865.html	Newell Rubbermaid
+374	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/762.html	Smurfit-Stone Container
+375	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/330.html	Pitney Bowes
+376	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10738.html	CC Media Holdings
+377	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/3017.html	Emcor Group
+378	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/11489.html	Dr Pepper Snapple Group
+379	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/443.html	Weyerhaeuser
+380	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10721.html	SunGard Data Systems
+381	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10878.html	CH2M Hill
+382	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10801.html	Pantry
+383	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/11509.html	Domtar
+384	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/470.html	Clorox
+385	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2036.html	Northeast Utilities
+386	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/846.html	Oshkosh
+387	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/272.html	Mattel
+388	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/11380.html	Energy Transfer Equity
+389	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/11017.html	Advance Auto Parts
+390	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/756.html	Advanced Micro Devices
+391	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/114.html	Corning
+392	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10129.html	Mohawk Industries
+393	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10441.html	PetSmart
+394	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10727.html	Reliance Steel &amp; Aluminum
+395	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/203.html	Hershey
+396	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2100.html	YRC Worldwide
+397	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10824.html	Dollar Tree
+398	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/125.html	Dana Holding
+399	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10505.html	Cameron International
+400	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2145.html	Nash-Finch
+401	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2346.html	Pacific Life
+402	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/994.html	Terex
+403	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2874.html	Universal Health Services
+404	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/11078.html	Amerigroup
+405	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10805.html	Sanmina-SCI
+406	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/11278.html	Jarden
+407	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2146.html	Tutor Perini
+408	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10191.html	Mutual of Omaha Insurance
+409	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10070.html	Avis Budget Group
+410	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10682.html	Autoliv
+411	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/11291.html	MasterCard
+412	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/11043.html	Mylan
+413	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/11376.html	Western Union
+414	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/11268.html	Celanese
+415	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10098.html	Eastman Chemical
+416	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10417.html	Telephone &amp; Data Systems
+417	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10652.html	Polo Ralph Lauren
+418	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10449.html	Auto-Owners Insurance
+419	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/11187.html	Core-Mark Holding
+420	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/11139.html	Western &amp; Southern Financial Group
+421	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/992.html	Applied Materials
+422	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2937.html	Anixter International
+423	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10712.html	CenturyTel
+424	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10989.html	Atmos Energy
+425	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/11441.html	Universal American
+426	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2201.html	Ryder System
+427	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/742.html	SPX
+428	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2272.html	Foot Locker
+429	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/11041.html	O'Reilly Automotive
+430	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/894.html	Harley-Davidson
+431	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/658.html	Holly
+432	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/1009.html	Micron Technology
+432	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/314.html	Owens Corning
+434	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10907.html	EOG Resources
+435	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/57.html	Black &amp; Decker
+436	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10087.html	Big Lots
+437	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/11430.html	Spectra Energy
+438	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10616.html	Starwood Hotels &amp; Resorts
+439	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2852.html	United Stationers
+440	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/11433.html	TravelCenters of America
+441	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/11374.html	BlackRock
+442	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10133.html	Laboratory Corp. of America
+443	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10654.html	Health Management Associates
+444	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/11328.html	NYSE Euronext
+445	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10595.html	St. Jude Medical
+446	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/404.html	Tenneco
+447	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2661.html	El Paso
+448	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10734.html	Wesco International
+449	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/11131.html	Consol Energy
+450	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10635.html	ArvinMeritor
+451	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/292.html	NCR
+452	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/71.html	Unisys
+453	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/266.html	Lubrizol
+454	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/1034.html	Alliant Techsystems
+455	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/620.html	Washington Post
+456	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/11260.html	Las Vegas Sands
+457	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10686.html	Group 1 Automotive
+458	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/11016.html	Genzyme
+459	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/1025.html	Allergan
+460	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/11071.html	Broadcom
+461	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10866.html	Agilent Technologies
+462	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10999.html	Rockwell Collins
+463	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/3122.html	W.R. Berkley
+464	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/597.html	PepsiAmericas
+465	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2958.html	Charles Schwab
+466	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/11068.html	Dick's Sporting Goods
+467	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/11015.html	FMC Technologies
+468	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/11214.html	NII Holdings
+469	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10670.html	General Cable
+470	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10213.html	Graybar Electric
+471	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/11136.html	Biogen Idec
+472	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/790.html	AbitibiBowater
+473	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10598.html	Flowserve
+474	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10047.html	Airgas
+475	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/5056.html	Conseco
+476	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/304.html	Rockwell Automation
+477	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10748.html	Kindred Healthcare
+478	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/3108.html	American Financial Group
+479	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2678.html	Kelly Services
+480	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/11603.html	Spectrum Group International
+481	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2249.html	RadioShack
+482	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2974.html	CA
+483	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2127.html	Con-way
+484	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10235.html	Erie Insurance Group
+485	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10182.html	Casey's General Stores
+486	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/11261.html	Centene
+487	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/186.html	Sealed Air
+488	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10862.html	Frontier Oil
+489	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/5042.html	Scana
+490	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/11327.html	Live Nation Entertainment
+491	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10696.html	Fiserv
+492	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2261.html	Host Hotels &amp; Resorts
+493	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2947.html	H&amp;R Block
+494	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10792.html	Electronic Arts
+495	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10281.html	Franklin Resources
+496	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/3571.html	Wisconsin Energy
+497	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/2579.html	Northern Trust Corp.
+498	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10837.html	MDU Resources Group
+499	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10752.html	CB Richard Ellis Group
+500	http://money.cnn.com/magazines/fortune/fortune500/2010/snapshots/10036.html	Blockbuster
