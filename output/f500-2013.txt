@@ -1,0 +1,500 @@
+1	Wal-Mart Stores
+2	Exxon Mobil
+3	Chevron
+4	Phillips 66
+5	Berkshire Hathaway
+6	Apple
+7	General Motors
+8	General Electric
+9	Valero Energy
+10	Ford Motor
+11	AT&T;
+12	Fannie Mae
+13	CVS Caremark
+14	McKesson
+15	Hewlett-Packard
+16	Verizon Communications
+17	UnitedHealth Group
+18	J.P. Morgan Chase & Co.
+19	Cardinal Health
+20	International Business Machines
+21	Bank of America Corp.
+22	Costco Wholesale
+23	Kroger
+24	Express Scripts Holding
+25	Wells Fargo
+26	Citigroup
+27	Archer Daniels Midland
+28	Procter & Gamble
+29	Prudential Financial
+30	Boeing
+31	Freddie Mac
+32	AmerisourceBergen
+33	Marathon Petroleum
+34	Home Depot
+35	Microsoft
+36	Target
+37	Walgreen
+38	American International Group
+39	INTL FCStone
+40	MetLife
+41	Johnson & Johnson
+42	Caterpillar
+43	PepsiCo
+44	State Farm Insurance Cos.
+45	ConocoPhillips
+46	Comcast
+47	WellPoint
+48	Pfizer
+49	Amazon.com
+50	United Technologies
+51	Dell
+52	Dow Chemical
+53	United Parcel Service
+54	Intel
+55	Google
+56	Lowe's
+57	Coca-Cola
+58	Merck
+59	Lockheed Martin
+60	Cisco Systems
+61	Best Buy
+62	Safeway
+63	FedEx
+64	Enterprise Products Partners
+65	Sysco
+66	Walt Disney
+67	Johnson Controls
+68	Goldman Sachs Group
+69	CHS
+70	Abbott Laboratories
+71	Sears Holdings
+72	DuPont
+73	Humana
+74	World Fuel Services
+75	Hess
+76	Ingram Micro
+77	Plains All American Pipeline
+78	Honeywell International
+79	United Continental Holdings
+80	Oracle
+81	Liberty Mutual Insurance Group
+82	HCA Holdings
+83	Delta Air Lines
+84	Aetna
+85	Deere
+86	Supervalu
+87	Sprint Nextel
+88	Mondelēz International
+89	New York Life Insurance
+90	American Express
+91	News Corp.
+92	Allstate
+93	Tyson Foods
+94	Massachusetts Mutual Life Insurance
+95	Tesoro
+96	Morgan Stanley
+97	TIAA-CREF
+98	General Dynamics
+99	Philip Morris International
+100	Nationwide
+101	3M
+102	DirecTV
+103	Cigna
+104	Murphy Oil
+105	Time Warner
+106	Halliburton
+107	International Paper
+108	Publix Super Markets
+109	Macy's
+110	Fluor
+111	McDonald's
+112	Hartford Financial Services Group
+113	Rite Aid
+114	Northwestern Mutual
+115	TJX
+116	Travelers Cos.
+117	Avnet
+118	Aflac
+119	Tech Data
+120	Northrop Grumman
+121	AMR
+122	Staples
+123	Emerson Electric
+124	Raytheon
+125	Occidental Petroleum
+126	Nike
+127	Capital One Financial
+128	Alcoa
+129	Exelon
+130	Eli Lilly
+131	Xerox
+132	U.S. Bancorp
+133	EMC
+134	Time Warner Cable
+135	Baker Hughes
+136	Kimberly-Clark
+137	Goodyear Tire & Rubber
+138	Union Pacific
+139	United Services Automobile Assn.
+140	ManpowerGroup
+141	Arrow Electronics
+142	PBF Energy
+143	HollyFrontier
+144	National Oilwell Varco
+145	Duke Energy
+146	Nucor
+147	United States Steel
+148	Kohl's
+149	Qualcomm
+150	CenturyLink
+151	Kraft Foods Group
+152	Danaher
+153	AES
+154	Whirlpool
+155	Illinois Tool Works
+156	Freeport-McMoRan Copper & Gold
+157	Global Partners
+158	Bristol-Myers Squibb
+159	Altria Group
+160	Cummins
+161	Energy Transfer Equity
+162	Amgen
+163	Jabil Circuit
+164	Southwest Airlines
+165	Colgate-Palmolive
+166	Progressive
+167	Apache
+168	Paccar
+169	General Mills
+170	PNC Financial Services Group
+171	Southern
+172	Medtronic
+173	TRW Automotive Holdings
+174	Marathon Oil
+175	Dollar General
+176	Computer Sciences
+177	AutoNation
+178	Icahn Enterprises
+179	Gap
+180	Bank of New York Mellon Corp.
+181	FirstEnergy
+182	PPG Industries
+183	PG&E; Corp.
+184	Community Health Systems
+185	American Electric Power
+186	CBS
+187	Lear
+188	Loews
+189	DISH Network
+190	NextEra Energy
+191	Omnicom Group
+192	Kellogg
+193	Baxter International
+194	Land O'Lakes
+195	Coventry Health Care
+196	eBay
+197	L-3 Communications
+198	Viacom
+199	US Airways Group
+200	Waste Management
+201	Yum Brands
+202	Chubb
+203	Penske Automotive Group
+204	Toys "R" Us
+205	Aramark
+206	Monsanto
+207	Anadarko Petroleum
+208	Starbucks
+209	ConAgra Foods
+210	Dominion Resources
+211	Parker-Hannifin
+212	Edison International
+213	Smithfield Foods
+214	Genuine Parts
+215	J.C. Penney
+216	Navistar International
+217	Dean Foods
+218	Texas Instruments
+219	Oneok
+220	Thermo Fisher Scientific
+221	Ally Financial
+222	Western Digital
+223	Chesapeake Energy
+224	PPL
+225	Textron
+226	Consolidated Edison
+227	Nordstrom
+228	Marsh & McLennan
+229	Ecolab
+230	Marriott International
+231	CSX
+232	Whole Foods Market
+233	EOG Resources
+234	H.J. Heinz
+235	Lincoln National
+236	Health Net
+237	C.H. Robinson Worldwide
+238	Guardian Life Ins. Co. of America
+239	SunTrust Banks
+240	SAIC
+241	Praxair
+242	Huntsman
+243	Peter Kiewit Sons'
+244	Las Vegas Sands
+245	Stanley Black & Decker
+246	Mosaic
+247	Norfolk Southern
+248	URS
+249	Jacobs Engineering Group
+250	VF
+251	BB&T; Corp.
+252	Avon Products
+253	Office Depot
+254	First Data
+255	Automatic Data Processing
+256	Liberty Global
+257	Unum Group
+258	L Brands
+259	CarMax
+260	Visa
+261	Entergy
+262	Synnex
+263	Ameriprise Financial
+264	R.R. Donnelley & Sons
+265	Kinder Morgan
+266	Xcel Energy
+267	CDW
+268	State Street Corp.
+269	Tenet Healthcare
+270	Liberty Interactive
+271	Genworth Financial
+272	AGCO
+273	Air Products & Chemicals
+274	Newmont Mining
+275	Reinsurance Group of America
+276	Public Service Enterprise Group
+277	KKR
+278	Ross Stores
+279	Estée Lauder
+280	Gilead Sciences
+281	Sempra Energy
+282	Sherwin-Williams
+283	Western Refining
+284	Devon Energy
+285	Bed Bath & Beyond
+286	BlackRock
+287	Family Dollar Stores
+288	Hillshire Brands
+289	Leucadia National
+290	Principal Financial
+291	Rock-Tenn
+292	MGM Resorts International
+293	Hertz Global Holdings
+294	Discover Financial Services
+295	W.W. Grainger
+296	Henry Schein
+297	Owens & Minor
+298	GameStop
+299	DTE Energy
+300	Caesars Entertainment
+301	Ball
+302	Applied Materials
+303	Centene
+304	Motorola Solutions
+305	Stryker
+306	AutoZone
+307	Sonic Automotive
+308	Dover
+309	Assurant
+310	Cameron International
+311	DaVita HealthCare Partners
+312	Crown Holdings
+313	Reliance Steel & Aluminum
+314	NRG Energy
+315	Peabody Energy
+316	Reynolds American
+317	Autoliv
+318	Micron Technology
+319	Hormel Foods
+320	AECOM Technology
+321	Ashland
+322	Oshkosh
+323	Republic Services
+324	Eastman Chemical
+325	Thrivent Financial for Lutherans
+326	Corning
+327	Broadcom
+328	Darden Restaurants
+329	TravelCenters of America
+330	HD Supply
+331	Spectrum Group International
+332	Becton Dickinson
+333	Sealed Air
+334	KBR
+335	Commercial Metals
+336	Masco
+337	Universal Health Services
+338	Campbell Soup
+339	Coca-Cola Enterprises
+340	Charter Communications
+341	Quest Diagnostics
+342	Williams
+343	Group 1 Automotive
+344	CenterPoint Energy
+345	WellCare Health Plans
+346	Dollar Tree
+347	Pantry
+348	MasterCard
+349	Tenneco
+350	Avis Budget Group
+351	Terex
+352	Cognizant Technology Solutions
+353	Fidelity National Financial
+354	Steel Dynamics
+355	Precision Castparts
+356	Dana Holding
+357	Boston Scientific
+358	BorgWarner
+359	Visteon
+360	Barnes & Noble
+361	Fifth Third Bancorp
+362	Franklin Resources
+363	Weyerhaeuser
+364	Owens-Illinois
+365	Alpha Natural Resources
+366	Interpublic Group
+367	OfficeMax
+368	Core-Mark Holding
+369	Pacific Life
+370	Ralph Lauren
+371	Agilent Technologies
+372	Dole Food
+373	Ameren
+374	Mylan
+375	Avery Dennison
+376	Health Management Associates
+377	PetSmart
+378	Dillard's
+379	Symantec
+380	Huntington Ingalls Industries
+381	Enbridge Energy Partners
+382	Cablevision Systems
+383	Jarden
+384	Hershey
+385	WESCO International
+386	Ingredion
+387	CBRE Group
+388	UGI
+389	NuStar Energy
+390	McGraw-Hill
+391	Vanguard Health Systems
+392	Casey's General Stores
+393	American Family Insurance Group
+394	Mutual of Omaha Insurance
+395	Mattel
+396	Celanese
+397	Quanta Services
+398	Level 3 Communications
+399	EMCOR Group
+400	Starwood Hotels & Resorts
+401	Regions Financial
+402	Northeast Utilities
+403	Rockwell Automation
+404	Ryder System
+405	Anixter International
+406	CMS Energy
+407	CC Media Holdings
+408	NetApp
+409	Advance Auto Parts
+410	Kindred Healthcare
+411	Seaboard
+412	O'Reilly Automotive
+413	Foot Locker
+414	Windstream
+415	CH2M Hill
+416	Omnicare
+417	FMC Technologies
+418	SLM
+419	CF Industries Holdings
+420	Sanmina
+421	NII Holdings
+422	PVH
+423	Molina Healthcare
+424	Cliffs Natural Resources
+425	General Cable
+426	Shaw Group
+427	Dr Pepper Snapple Group
+428	Expeditors International of Washington
+429	Harris
+430	AK Steel Holding
+431	SPX
+432	Actavis
+433	Newell Rubbermaid
+434	Fidelity National Information Services
+435	Targa Resources
+436	Booz Allen Hamilton Holding
+437	Dick's Sporting Goods
+438	W.R. Berkley
+439	Live Nation Entertainment
+440	Allergan
+441	NCR
+442	Mohawk Industries
+443	Auto-Owners Insurance
+444	Laboratory Corp. of America
+445	Western Union
+446	Joy Global
+447	Energy Future Holdings
+448	MeadWestvaco
+449	Harley-Davidson
+450	Con-way
+451	MRC Global
+452	J.M. Smucker
+453	Exelis
+454	Biogen Idec
+455	Erie Insurance Group
+456	Celgene
+457	St. Jude Medical
+458	Domtar
+459	Calpine
+460	Susser Holdings
+461	Clorox
+462	Kelly Services
+463	Consol Energy
+464	Advanced Micro Devices
+465	Graybar Electric
+466	Big Lots
+467	Gannett
+468	Telephone & Data Systems
+469	Host Hotels & Resorts
+470	Insight Enterprises
+471	Western & Southern Financial Group
+472	Andersons
+473	Priceline.com
+474	United Natural Foods
+475	Spectra Energy
+476	Owens Corning
+477	Avaya
+478	Wynn Resorts
+479	Bemis
+480	NiSource
+481	MetroPCS Communications
+482	Facebook
+483	Pepco Holdings
+484	United Stationers
+485	American Financial Group
+486	J.B. Hunt Transport Services
+487	SanDisk
+488	Charles Schwab
+489	Pitney Bowes
+490	Allegheny Technologies
+491	Jones Financial
+492	Frontier Communications
+493	Timken
+494	Yahoo
+495	JetBlue Airways
+496	Old Republic International
+497	Simon Property Group
+498	YRC Worldwide
+499	CA
+500	Nash-Finch
