@@ -74,7 +74,5 @@ parseFile(fname="f500-2006.txt")
 for fname in os.listdir("output"):
     parseFile(fname=fname)
 
-
-
 conn.commit()
 conn.close()
