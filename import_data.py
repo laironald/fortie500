@@ -19,6 +19,7 @@ c.executescript("""
   CREATE TABLE IF NOT EXISTS f500_company_year_link (
     company_id      INTEGER,
     year_id         INTEGER,
+    seq_num         INTEGER,
     url__fortune    VARCHAR);
   CREATE INDEX IF NOT EXISTS
     idx_idx2 ON f500_company_year_link (company_id);
@@ -31,7 +32,7 @@ c.executescript("""
     year_id         INTEGER,
     companies       INTEGER);
   CREATE UNIQUE INDEX IF NOT EXISTS
-    idx_idx ON f500_year_legend (year_id);
+    idx_idx5 ON f500_year_legend (year_id);
   """)
 
 
@@ -61,8 +62,8 @@ def parseFile(fname):
         company_id = c.fetchone()[0]
         c.execute("""
             INSERT OR IGNORE INTO f500_company_year_link
-              (company_id, year_id, url__fortune) VALUES (?, ?, ?)
-            """, (company_id, year_id, url))
+              (company_id, year_id, seq_num, url__fortune) VALUES (?, ?, ?, ?)
+            """, (company_id, year_id, i, url))
 
     c.execute("""
         INSERT OR IGNORE INTO f500_year_legend

@@ -12,7 +12,7 @@ c = conn.cursor()
 c.execute("""
     SELECT  company_id, name
       FROM  f500_company_object
-     WHERE  ticker = "-"
+     WHERE  ticker = ""
     """)
 comps = c.fetchall()
 
