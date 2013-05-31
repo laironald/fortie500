@@ -18,16 +18,12 @@ for year in years:
     print year
     out = codecs.open("output/f500-{year}.txt".format(year=year), encoding="utf-8", mode="wb")
     out.write(u"rank\turl\tcompany\n")
-    
-    for j,page in enumerate(pages):
+    for j, page in enumerate(pages):
         if year > max_f1000 and j > 4:
             break
-            
-    
         url = baseurl.format(year=year, page=page)
         html = urllib2.urlopen(url)
         html = "".join([x for x in html])
-        
         soup = BeautifulSoup.BeautifulSoup(html)
         tables = soup.findAll("table")
         for table in tables:

@@ -1,4 +1,3 @@
-import csv
 import codecs
 import BeautifulSoup
 import urllib2

@@ -239,8 +239,8 @@ rank	url	company
 238	http://money.cnn.com/magazines/fortune/fortune500/2013/snapshots/2367.html	Guardian Life Ins. Co. of America
 239	http://money.cnn.com/magazines/fortune/fortune500/2013/snapshots/2586.html	SunTrust Banks
 240	http://money.cnn.com/magazines/fortune/fortune500/2013/snapshots/10218.html	SAIC
-241	http://money.cnn.com/magazines/fortune/fortune500/2013/snapshots/5019.html	Praxair
-242	http://money.cnn.com/magazines/fortune/fortune500/2013/snapshots/10421.html	Huntsman
+241	http://money.cnn.com/magazines/fortune/fortune500/2013/snapshots/10421.html	Huntsman
+242	http://money.cnn.com/magazines/fortune/fortune500/2013/snapshots/5019.html	Praxair
 243	http://money.cnn.com/magazines/fortune/fortune500/2013/snapshots/10679.html	Peter Kiewit Sons'
 244	http://money.cnn.com/magazines/fortune/fortune500/2013/snapshots/11260.html	Las Vegas Sands
 245	http://money.cnn.com/magazines/fortune/fortune500/2013/snapshots/389.html	Stanley Black & Decker
