@@ -1,2 +1,2 @@
 unidecode
-BeautifulSoup
+beautifulsoup4

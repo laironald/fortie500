@@ -1,6 +1,6 @@
 import csv
 import codecs
-import BeautifulSoup
+import bs4
 import urllib2
 
 years = range(2006, 2013, 1)
@@ -24,7 +24,7 @@ for year in years:
         url = baseurl.format(year=year, page=page)
         html = urllib2.urlopen(url)
         html = "".join([x for x in html])
-        soup = BeautifulSoup.BeautifulSoup(html)
+        soup = bs4.BeautifulSoup(html)
         tables = soup.findAll("table")
         for table in tables:
             if not table.get("class"):

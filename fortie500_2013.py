@@ -1,5 +1,5 @@
 import codecs
-import BeautifulSoup
+import bs4
 import urllib2
 
 url = "http://money.cnn.com/magazines/fortune/fortune500/2013/full_list/index.html?iid=F500_sp_full"
@@ -8,7 +8,7 @@ baseurl = "http://money.cnn.com"
 html = urllib2.urlopen(url)
 html = "".join([x for x in html])
 
-soup = BeautifulSoup.BeautifulSoup(html)
+soup = bs4.BeautifulSoup(html)
 soup = soup.find(id="f500-list")
 soup = soup.find(id="content-placeholder")
 
