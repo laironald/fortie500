@@ -3,6 +3,7 @@ import urllib2
 import unidecode
 import bs4
 import time
+import re
 
 
 boardURL = "http://www.reuters.com/finance/stocks/companyOfficers?symbol={}"
@@ -17,6 +18,7 @@ c.executescript("""
         name__first     VARCHAR,
         name__last      VARCHAR,
         age             INTEGER,
+        gender          VARCHAR,
         biography       TEXT);
     CREATE UNIQUE INDEX IF NOT EXISTS
         idx_idx6 ON f500_person_object (person_id);
@@ -35,6 +37,25 @@ c.executescript("""
     CREATE UNIQUE INDEX IF NOT EXISTS
         idx_idx9 ON f500_person_company_link (company_id, person_id);
     """)
+
+
+def getGender(biography):
+    if not biography:
+        return ""
+    elif biography[:3] == "Mr.":
+        return "Male"
+    elif biography[:3] == "Ms.":
+        return "Female"
+    else:
+        ms = len(re.findall(r'\b(he|his)\b', biography, re.I))
+        fs = len(re.findall(r'\b(she|her)\b', biography, re.I))
+        if not (ms or fs):
+            return ""
+        print ms, fs
+        if ms > fs:
+            return "Male"
+        else:
+            return "Female"
 
 
 def getBoard(ticker):
@@ -87,9 +108,9 @@ def getBoard(ticker):
         cp = person[p]
         c.execute("""
             INSERT OR IGNORE INTO f500_person_object
-            (person_id, name__first, name__last, age, biography)
-            VALUES (?, ?, ?, ?, ?)
-            """, (p, cp["name"][0], cp["name"][1], cp["age"], cp["bio"]))
+            (person_id, name__first, name__last, age, gender, biography)
+            VALUES (?, ?, ?, ?, ?, ?)
+            """, (p, cp["name"][0], cp["name"][1], cp["age"], getGender(cp["bio"]), cp["bio"]))
         c.execute("""
             INSERT OR IGNORE INTO f500_person_company_link
             (person_id, company_id, since, position, seq_num)
