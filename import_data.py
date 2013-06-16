@@ -162,7 +162,8 @@ def parseFile(fname, year_id=None):
             INSERT OR IGNORE INTO f500_company_year_link
               (company_id, year_id, seq_num, url__fortune) VALUES (?, ?, ?, ?)
             """, (company_id, year_id, seq, url))
-        conn.commit()
+        if i % 20 == 0:
+            conn.commit()
 
         #c.execute("""
         #    INSERT OR IGNORE INTO f500_company_object
