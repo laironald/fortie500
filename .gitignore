@@ -2,3 +2,4 @@
 *.pyc
 *.db-journal
 *.DS_Store
+*.mwb.bak

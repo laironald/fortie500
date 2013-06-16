@@ -1,20 +1,35 @@
-import os
+import csv
 import re
 import sqlite3
 import urllib
 import urllib2
 import unidecode
 import json
+import glob
 import time
 
 
 tickerURL = "https://www.google.com/finance/match?matchtype=matchall&{0}"
+gfinURL = "https://www.google.com/finance?q={}"
 
 conn = sqlite3.connect('f500.db')
 conn.text_factory = str
 c = conn.cursor()
 c.executescript("""
     PRAGMA encoding = "UTF-8";
+    CREATE TABLE IF NOT EXISTS companyHash (
+        company_id      VARCHAR,
+        name            VARCHAR,
+        name_decode     VARCHAR,
+        ticker          BOOLEAN);
+    CREATE UNIQUE INDEX IF NOT EXISTS
+        idx_idxc1 ON companyHash (name);
+    CREATE TABLE IF NOT EXISTS pageHash (
+        url             VARCHAR,
+        content         TEXT);
+    CREATE UNIQUE INDEX IF NOT EXISTS
+        idx_idxc2 ON pageHash (url);
+
     CREATE TABLE IF NOT EXISTS f500_company_object (
         company_id      VARCHAR,
         name            VARCHAR,
@@ -23,7 +38,6 @@ c.executescript("""
         idx_idx ON f500_company_object (company_id);
     CREATE UNIQUE INDEX IF NOT EXISTS
         idx_idx1 ON f500_company_object (name);
-
 
     CREATE TABLE IF NOT EXISTS f500_company_year_link (
         company_id      VARCHAR,
@@ -47,74 +61,126 @@ c.executescript("""
 
 
 c.execute("""
-    SELECT  name, company_id
-      FROM  f500_company_object
+    SELECT  name, company_id, name_decode
+      FROM  companyHash
     """)
-tickers = dict(c.fetchall())
+tickers = dict([[x, x[1:]] for x in c.fetchall()])
 tcounter = 0
+
+
+def getUrl(url):
+    c.execute("""
+        SELECT content FROM pageHash WHERE url=?
+        """, (url,))
+    content = c.fetchone()
+    if not content:
+        res = urllib2.urlopen(url)
+        content = "".join([r for r in res])
+        c.execute("""
+            INSERT OR IGNORE INTO pageHash
+            (url, content) VALUES (?, ?)
+            """, (url, content))
+        time.sleep(0.5)
+    else:
+        content = content[0]
+    return content
 
 
 def getTicker(comp):
     if comp not in tickers:
-        q = unidecode.unidecode(comp)
+        q = unidecode.unidecode(comp.decode("latin-1"))
         qs = urllib.urlencode({"q": q})
-        res = urllib2.urlopen(tickerURL.format(qs))
-        res = json.loads("".join([r for r in res]))
+        res = json.loads(getUrl(tickerURL.format(qs)))
         if res['matches'] and res['matches'][0]['t']:
             res = res['matches'][0]
-            res = res['t']
+            company_id = res['t']
+            name_decode = res['n']
         else:
-            res = "--{}".format(comp)
-        time.sleep(0.5)
-        tickers[comp] = res
-        print "fetch: ", res, len(tickers)
+            company_id = ""
+            name_decode = ""
+        tickers[comp] = [company_id, name_decode]
+        print "fetch: ", company_id, len(tickers)
     return tickers[comp]
 
 
-def parseFile(fname):
+def parseFile(fname, year_id=None):
     print fname
-    f = open("output/"+fname)
-    year_id = fname[-8:-4]
-    for i, row in enumerate(f.read().split("\n")):
+    if not year_id:
+        year_id = fname[-8:-4]
+
+    f = open(fname)
+    if fname[-3:] == "txt":
+        format = "txt"
+        lines = f.read().split("\n")
+    elif fname[-3:] == "csv":
+        format = "csv"
+        lines = csv.reader(fname)
+
+    for i, row in enumerate(lines):
         if i == 0 or not row:
             continue
         row = re.sub(" *[\t] *", "\t", row).strip()
         row = row.replace("&amp;", "&")
         row = row.replace("&quot;", '"')
-        seq, url, comp = row.split("\t")
-        finder = re.findall("(.*?)[(](.*?)[)]", comp)
-        company_id = ""
-        if finder:
-            comp, company_id = finder[0]
-            tickers[comp] = company_id
+        if format == "txt":
+            seq, url, name = row.split("\t")
         else:
-            company_id = getTicker(comp)
+            seq, name = row[:2]
+            url = ""
 
-        companies = i
-        if company_id[:2] == "--":
+        finder = re.findall("(.*?)[(](.*?)[)]", name)
+        if finder:
+            name = finder[0][0]
+            company_id, name_decode = getTicker(finder[0][1])
+        else:
+            company_id, name_decode = getTicker(name)
+        if not company_id and len(name) > 10:
+            company_id, name_decode = getTicker(name[:len(name)/2])
+
+        if not company_id:
             ticker = False
         else:
             ticker = True
 
         c.execute("""
-            INSERT OR IGNORE INTO f500_company_object
-              (company_id, name, ticker) VALUES (?, ?, ?)
-            """, (company_id, comp, ticker))
+            INSERT OR IGNORE INTO companyHash
+                (company_id, name, name_decode, ticker)
+                VALUES (?, ?, ?, ?)
+            """, (company_id, name, name_decode, ticker))
+        c.execute("""
+            UPDATE  companyHash
+               SET  company_id = "|"||ROWID||"|"
+             WHERE  company_id = ""
+            """)
+        c.execute("""
+            SELECT  company_id
+              FROM  companyHash
+             WHERE  name = ?
+            """, (name,))
+        company_id = c.fetchone()[0]
         c.execute("""
             INSERT OR IGNORE INTO f500_company_year_link
               (company_id, year_id, seq_num, url__fortune) VALUES (?, ?, ?, ?)
-            """, (company_id, year_id, i, url))
+            """, (company_id, year_id, seq, url))
+        conn.commit()
+
+        #c.execute("""
+        #    INSERT OR IGNORE INTO f500_company_object
+        #      (company_id, name, ticker) VALUES (?, ?, ?)
+        #    """, (company_id, comp, ticker))
 
     c.execute("""
-        INSERT OR IGNORE INTO f500_year_legend
+        REPLACE INTO f500_year_legend
           (year_id, companies) VALUES (?, ?)
-        """, (year_id, companies))
+        """, (year_id, seq))
     f = None
     conn.commit()
 
-parseFile(fname="f500-2006.txt")
-for fname in os.listdir("output"):
+parseFile(fname="output/f500-2006.txt")
+for fname in glob.glob("output/*.txt"):
     parseFile(fname=fname)
+#parseFile(fname="2013-SK.csv", 2013)
+
 
 conn.commit()
 conn.close()

@@ -23,7 +23,6 @@ c.executescript("""
     CREATE UNIQUE INDEX IF NOT EXISTS
         idx_idx6 ON f500_person_object (person_id);
 
-
     CREATE TABLE IF NOT EXISTS f500_person_company_link (
         person_id       VARCHAR,
         company_id      VARCHAR,
@@ -51,7 +50,6 @@ def getGender(biography):
         fs = len(re.findall(r'\b(she|her)\b', biography, re.I))
         if not (ms or fs):
             return ""
-        print ms, fs
         if ms > fs:
             return "Male"
         else:

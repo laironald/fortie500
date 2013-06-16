@@ -1,0 +1,1305 @@
+company_id,name,ticker
+XOM,"Exxon Mobil",1
+WMT,"Wal-Mart Stores",1
+GM,"General Motors",1
+CVX,Chevron,1
+F,"Ford Motor",1
+COP,ConocoPhillips,1
+GE,"General Electric",1
+C,Citigroup,1
+AIG,"American Intl. Group",1
+IBM,"Intl. Business Machines",1
+HPQ,Hewlett-Packard,1
+BAC,"Bank of America Corp.",1
+BRKA,"Berkshire Hathaway",1
+HD,"Home Depot",1
+VLO,"Valero Energy",1
+MCK,McKesson,1
+JPM,"J.P. Morgan Chase & Co.",1
+VZ,"Verizon Communications",1
+CAH,"Cardinal Health",1
+MO,"Altria Group",1
+KR,Kroger,1
+"--State Farm Insurance Cos","State Farm Insurance Cos",0
+MRO,"Marathon Oil",1
+PG,"Procter & Gamble",1
+DELL,Dell,1
+BA,Boeing,1
+ABC,AmerisourceBergen,1
+COST,"Costco Wholesale",1
+TGT,Target,1
+MS,"Morgan Stanley",1
+PFE,Pfizer,1
+JNJ,"Johnson & Johnson",1
+SHLD,"Sears Holdings",1
+MER,"Merrill Lynch",1
+MET,MetLife,1
+DOW,"Dow Chemical",1
+UNH,"UnitedHealth Group",1
+WLP,Wellpoint,1
+T,AT&T,1
+TWX,"Time Warner",1
+GS,"Goldman Sachs Group",1
+LOW,"Lowe's",1
+UTX,"United Technologies",1
+UPS,"United Parcel Service",1
+WAG,Walgreen,1
+WFC,"Wells Fargo",1
+ABS,"Albertson's",1
+MSFT,Microsoft,1
+INTC,Intel,1
+SWY,Safeway,1
+MHS,"Medco Health Solutions",1
+LMT,"Lockheed Martin",1
+CVS,CVS,1
+MOT,Motorola,1
+CAT,Caterpillar,1
+ADM,"Archer Daniels Midland",1
+WB,"Wachovia Corp.",1
+ALL,Allstate,1
+S,"Sprint Nextel",1
+CMX,"Caremark Rx",1
+PEP,PepsiCo,1
+LEH,"Lehman Brothers",1
+DIS,"Walt Disney",1
+PRU,"Prudential Financial",1
+PAA,"Plains All Amer. Pipeline",1
+SUN,Sunoco,1
+NOC,"Northrop Grumman",1
+SYY,Sysco,1
+AXP,"American Express",1
+FDX,FedEx,1
+HON,"Honeywell Intl.",1
+IM,"Ingram Micro",1
+DD,DuPont,1
+"--New York Life Insurance","New York Life Insurance",0
+JCI,"Johnson Controls",1
+BBY,"Best Buy",1
+DPHIQ,Delphi,1
+HIG,"Hartford Financial Services",1
+AA,Alcoa,1
+TSN,"Tyson Foods",1
+TCLOX,TIAA-CREF,1
+IP,"International Paper",1
+CSCO,"Cisco Systems",1
+HCA,HCA,1
+STA,"St. Paul Travelers Cos.",1
+NWS,"News Corp.",1
+FD,"Federated Dept. Stores",1
+AHC,"Amerada Hess",1
+KO,Coca-Cola,1
+WY,Weyerhaeuser,1
+AET,Aetna,1
+"--Mass. Mutual Life Ins.","Mass. Mutual Life Ins.",0
+ABT,"Abbott Laboratories",1
+CMCSK,Comcast,1
+MRK,Merck,1
+DE,Deere,1
+RTN,Raytheon,1
+NWMAX,Nationwide,1
+WM,"Washington Mutual",1
+GD,"General Dynamics",1
+MMM,3M,1
+"--Liberty Mutual Ins. Group","Liberty Mutual Ins. Group",0
+HAL,Halliburton,1
+PUSH,"Publix Super Markets",1
+AMR,AMR,1
+BLS,BellSouth,1
+TECD,"Tech Data",1
+EDS,"Electronic Data Systems",1
+MCD,"McDonald's",1
+BMY,"Bristol-Myers Squibb",1
+SLE,"Sara Lee",1
+GT,"Goodyear Tire & Rubber",1
+SVU,Supervalu,1
+CD,Cendant,1
+AN,AutoNation,1
+"--Northwestern Mutual","Northwestern Mutual",0
+DUK,"Duke Energy",1
+JCP,"J.C. Penney",1
+WYE,Wyeth,1
+CCE,"Coca-Cola Enterprises",1
+LYO,"Lyondell Chemical",1
+CFC,"Countrywide Financial",1
+D,"Dominion Resources",1
+UAUA,UAL,1
+CEG,"Constellation Energy",1
+EMR,"Emerson Electric",1
+LEA,Lear,1
+VC,Visteon,1
+RAD,"Rite Aid",1
+CI,Cigna,1
+USB,"U.S. Bancorp",1
+TSO,Tesoro,1
+OXY,"Occidental Petroleum",1
+ESRX,"Express Scripts",1
+DALRQ,"Delta Air Lines",1
+MAN,Manpower,1
+SPLS,Staples,1
+TJX,TJX,1
+GPS,Gap,1
+KMB,Kimberly-Clark,1
+CSC,"Computer Sciences",1
+XRX,Xerox,1
+CAG,"ConAgra Foods",1
+EXC,Exelon,1
+LTR,Loews,1
+BUD,Anheuser-Busch,1
+PHM,"Pulte Homes",1
+LLY,"Eli Lilly",1
+CBS,CBS,1
+HUM,Humana,1
+AFL,AFLAC,1
+WHR,Whirlpool,1
+PGR,Progressive,1
+ODP,"Office Depot",1
+EK,"Eastman Kodak",1
+CB,Chubb,1
+PCAR,Paccar,1
+X,"United States Steel",1
+AAPL,"Apple Computer",1
+Q,"Qwest Communications",1
+LEN,Lennar,1
+DHI,"D.R. Horton",1
+NKE,Nike,1
+UNP,"Union Pacific",1
+SO,Southern,1
+KSS,"Kohl's",1
+TXN,"Texas Instruments",1
+DTV,"DIRECTV Group",1
+FLR,Fluor,1
+WMI,"Waste Management",1
+BNI,"Burlington No. Santa Fe",1
+HUN,Huntsman,1
+ITW,"Illinois Tool Works",1
+MAS,Masco,1
+CTX,Centex,1
+OKE,ONEOK,1
+NUE,Nucor,1
+PEG,"Public Service Enterprise Group",1
+TRW,"TRW Automotive Holdings",1
+WMB,Williams,1
+AMGN,Amgen,1
+NWACQ,"Northwest Airlines",1
+EPD,"Enterprise Products",1
+FE,FirstEnergy,1
+AEP,"American Electric Power",1
+MMC,"Marsh & McLennan",1
+COF,"Capital One Financial",1
+CHS,CHS,1
+UCMCX,USAA,1
+TXT,Textron,1
+HNT,"Health Net",1
+PBG,"Pepsi Bottling",1
+MUR,"Murphy Oil",1
+EIX,"Edison International",1
+FPL,"FPL Group",1
+ORCL,Oracle,1
+SRE,"Sempra Energy",1
+SANM,Sanmina-SCI,1
+ED,"Consolidated Edison",1
+PCG,"PG&E Corp.",1
+NAV,"Navistar International",1
+BSC,"Bear Stearns",1
+MAR,"Marriott International",1
+CL,Colgate-Palmolive,1
+SFD,"Smithfield Foods",1
+GIS,"General Mills",1
+CAL,"Continental Airlines",1
+TOY,"Toys ""R"" Us",1
+ARW,"Arrow Electronics",1
+ETN,Eaton,1
+SUNW,"Sun Microsystems",1
+AVT,Avnet,1
+NCC,"National City Corp.",1
+UAG,"United Auto Group",1
+RMK,Aramark,1
+DF,"Dean Foods",1
+STI,"SunTrust Banks",1
+ETR,Entergy,1
+DVN,"Devon Energy",1
+RRI,"Reliant Energy",1
+AES,AES,1
+PGN,"Progress Energy",1
+GNW,"Genworth Financial",1
+FDC,"First Data",1
+OMC,"Omnicom Group",1
+CC,"Circuit City Stores",1
+SLR,Solectron,1
+TXU,TXU,1
+UNM,UnumProvident,1
+ASD,"American Standard",1
+WNDXQ,"Winn-Dixie Stores",1
+PPG,"PPG Industries",1
+K,Kellogg,1
+DCNA,Dana,1
+MDT,Medtronic,1
+THC,"Tenet Healthcare",1
+AOC,Aon,1
+CMI,Cummins,1
+ASH,Ashland,1
+BAX,"Baxter International",1
+VIAB,Viacom,1
+ARM,ArvinMeritor,1
+KMP,"Kinder Morgan Energy",1
+CNP,"CenterPoint Energy",1
+GPC,"Genuine Parts",1
+LTD,"Limited Brands",1
+XEL,"Xcel Energy",1
+FNF,"Fidelity National Financial",1
+EMC,EMC,1
+SGP,Schering-Plough,1
+AT,Alltel,1
+CCU,"Clear Channel Communications",1
+LLL,"L-3 Communications",1
+KBH,"KB Home",1
+LU,"Lucent Technologies",1
+"--Guardian Life of America","Guardian Life of America",0
+YUM,"Yum Brands",1
+OMX,OfficeMax,1
+DTE,"DTE Energy",1
+PD,"Phelps Dodge",1
+PFG,"Principal Financial",1
+HNZ,"H.J. Heinz",1
+YRCW,"YRC Worldwide",1
+INT,"World Fuel Services",1
+RRD,"R.R. Donnelley & Sons",1
+CSX,CSX,1
+TPP,"TEPPCO Partners",1
+DG,"Dollar General",1
+TMG,TransMontaigne,1
+NSC,"Norfolk Southern",1
+ADP,"Automatic Data Proc.",1
+AMZN,Amazon.com,1
+DISH,"Echostar Communications",1
+SSCC,"Smurfit-Stone Container",1
+CPNL,Calpine,1
+SAH,"Sonic Automotive",1
+L,"Liberty Media",1
+BK,"Bank of New York Co.",1
+PH,"Parker Hannifin",1
+RAI,"Reynolds American",1
+AVP,"Avon Products",1
+APD,"Air Products & Chem.",1
+POM,"Pepco Holdings",1
+FAF,"First American Corp.",1
+"--Science Applications Intl.","Science Applications Intl.",0
+ROH,"Rohm & Haas",1
+DHR,Danaher,1
+BJ,"BJ's Wholesale Club",1
+NI,NiSource,1
+PNC,"PNC Financial Services Group",1
+ITT,"ITT Industries",1
+BBT,"BB&T Corp.",1
+JWN,Nordstrom,1
+DDS,"Dillard's",1
+KSE,KeySpan,1
+GCI,Gannett,1
+PX,Praxair,1
+BR,"Burlington Resources",1
+APA,Apache,1
+LUV,"Southwest Airlines",1
+"--Land O'Lakes","Land O'Lakes",0
+CPB,"Campbell Soup",1
+JBL,"Jabil Circuit",1
+NU,"Northeast Utilities",1
+FO,"Fortune Brands",1
+AIZ,Assurant,1
+STT,"State St. Corp.",1
+FITB,"Fifth Third Bancorp",1
+HET,"Harrah's Entertainment",1
+BHI,"Baker Hughes",1
+SHW,Sherwin-Williams,1
+OI,Owens-Illinois,1
+IACI,IAC/InterActiveCorp,1
+APC,"Anadarko Petroleum",1
+EMN,"Eastman Chemical",1
+"--Cox Communications","Cox Communications",0
+AMAT,"Applied Materials",1
+WPS,"WPS Resources",1
+A,"Agilent Technologies",1
+KMG,Kerr-McGee,1
+CCK,"Crown Holdings",1
+MWV,MeadWestvaco,1
+"--American Family Ins. Grp.","American Family Ins. Grp.",0
+AEE,Ameren,1
+KEY,KeyCorp,1
+GDW,"Golden West Financial",1
+MHK,"Mohawk Industries",1
+CVH,"Coventry Health Care",1
+CMC,"Commercial Metals",1
+BDK,"Black & Decker",1
+SLM,SLM,1
+NWL,"Newell Rubbermaid",1
+VFC,VF,1
+MGM,"MGM Mirage",1
+EEP,"Enbridge Energy Partners",1
+MON,Monsanto,1
+DYN,Dynegy,1
+SBUX,Starbucks,1
+SAFC,Safeco,1
+EL,"Estee Lauder",1
+OWENQ,"Owens Corning",1
+DOV,Dover,1
+CDWC,CDW,1
+CMS,"CMS Energy",1
+FDMLQ,Federal-Mogul,1
+BSX,"Boston Scientific",1
+ETP,"Energy Transfer Partners",1
+IPG,"Interpublic Group",1
+PFGC,"Performance Food Group",1
+PPL,PPL,1
+ALV,Autoliv,1
+"--Thrivent Financial for Lutherans","Thrivent Financial for Lutherans",0
+GOOG,Google,1
+RF,"Regions Financial",1
+TEX,Terex,1
+CE,Celanese,1
+NCR,NCR,1
+OGE,"OGE Energy",1
+MHP,McGraw-Hill,1
+HOT,"Starwood Hotels & Rsrts.",1
+GPI,"Group 1 Automotive",1
+SKS,Saks,1
+BC,Brunswick,1
+ABG,"Asbury Automotive Group",1
+DOLE,"Dole Food",1
+BBI,Blockbuster,1
+AMD,"Advanced Micro Devices",1
+FSL,"Freescale Semiconductor",1
+FDO,"Family Dollar Stores",1
+TOL,"Toll Brothers",1
+RYI,Ryerson,1
+UIS,Unisys,1
+TAP,"Molson Coors Brewing",1
+BLL,Ball,1
+R,"Ryder System",1
+AW,"Allied Waste Industries",1
+MEL,"Mellon Financial Corp.",1
+AZO,AutoZone,1
+CHRW,"C.H. Robinson Worldwide",1
+HDI,Harley-Davidson,1
+QCOM,Qualcomm,1
+PPC,"Pilgrim's Pride",1
+FL,"Foot Locker",1
+CIT,"CIT Group",1
+AKS,"AK Steel Holding",1
+JEC,"Jacobs Engineering Grp.",1
+BXC,"BlueLinx Holdings",1
+TRB,Tribune,1
+FSH,"Fisher Scientific Intl.",1
+SII,"Smith International",1
+GWW,"W.W. Grainger",1
+DGX,"Quest Diagnostics",1
+AVY,"Avery Dennison",1
+PBI,"Pitney Bowes",1
+BCO,"Brink's",1
+LNC,"Lincoln National",1
+BDX,"Becton Dickinson",1
+CIN,Cinergy,1
+AG,AGCO,1
+HUG,"Hughes Supply",1
+HRL,"Hormel Foods",1
+GR,Goodrich,1
+HOV,"Hovnanian Enterprises",1
+LEG,"Leggett & Platt",1
+EAS,"Energy East",1
+OCR,Omnicare,1
+KELYA,"Kelly Services",1
+LBTYA,"Liberty Global",1
+DRI,"Darden Restaurants",1
+NVR,NVR,1
+KMX,CarMax,1
+YHOO,Yahoo,1
+CHTR,"Charter Communications",1
+CVC,"Cablevision Systems",1
+LXK,"Lexmark International",1
+MAT,Mattel,1
+TKR,Timken,1
+SCHW,"Charles Schwab",1
+BBBY,"Bed Bath & Beyond",1
+USG,USG,1
+"--Erie Insurance Group","Erie Insurance Group",0
+BKS,"Barnes & Noble",1
+RSH,RadioShack,1
+LCC,"US Airways Group",1
+JNY,"Jones Apparel Group",1
+"--Auto-Owners Insurance","Auto-Owners Insurance",0
+ROK,"Rockwell Automation",1
+BER,"W.R. Berkley",1
+BZH,"Beazer Homes USA",1
+ATO,"Atmos Energy",1
+ROST,"Ross Stores",1
+TRI,"Triad Hospitals",1
+TIN,Temple-Inland,1
+AV,Avaya,1
+MYG,Maytag,1
+UGI,UGI,1
+MDC,"MDC Holdings",1
+MU,"Micron Technology",1
+SYK,Stryker,1
+LIZ,"Liz Claiborne",1
+"--Pacific Life","Pacific Life",0
+HSY,Hershey,1
+OMI,"Owens & Minor",1
+RYL,"Ryland Group",1
+HSIC,"Henry Schein",1
+SPW,SPX,1
+SCG,SCANA,1
+EME,"Emcor Group",1
+WFMI,"Whole Foods Market",1
+LDG,"Longs Drug Stores",1
+CHK,"Chesapeake Energy",1
+NOV,"National Oilwell Varco",1
+BTU,"Peabody Energy",1
+EC,Engelhard,1
+EP,"El Paso",1
+GLW,Corning,1
+NAFC,"Nash Finch",1
+EBAY,eBay,1
+ECL,Ecolab,1
+CLX,Clorox,1
+NEM,"Newmont Mining",1
+"--Hexion Specialty Chemicals","Hexion Specialty Chemicals",0
+TEN,Tenneco,1
+HLT,"Hilton Hotels",1
+BLI,"Big Lots",1
+WCC,"Wesco International",1
+HRB,"H&R Block",1
+USTR,"United Stationers",1
+IKN,"Ikon Office Solutions",1
+MOS,Mosaic,1
+ACS,"Affiliated Computer Svcs.",1
+CNO,Conseco,1
+"--Western & Southern Financial","Western & Southern Financial",0
+BEN,"Franklin Resources",1
+BWA,BorgWarner,1
+"--Graybar Electric","Graybar Electric",0
+AAP,"Advance Auto Parts",1
+JP,Jefferson-Pilot,1
+MIR,Mirant,1
+FCX,"Freeport-McMoRan Cpr. & Gld",1
+CNF,CNF,1
+WWY,"Wm. Wrigley Jr.",1
+"--Peter Kiewit Sons'","Peter Kiewit Sons'",0
+"--Levi Strauss","Levi Strauss",0
+UHS,"Universal Health Svcs.",1
+LZ,Lubrizol,1
+STZ,"Constellation Brands",1
+FISV,Fiserv,1
+SEE,"Sealed Air",1
+BGP,"Borders Group",1
+"--Mutual of Omaha Ins.","Mutual of Omaha Ins.",0
+AFG,"American Financial Grp.",1
+SPF,"Standard Pacific",1
+SVM,ServiceMaster,1
+"--SunGard Data Systems","SunGard Data Systems",0
+FTO,"Frontier Oil",1
+PTMK,"Pathmark Stores",1
+KND,"Kindred Healthcare",1
+MI,"Marshall & Ilsley Corp.",1
+LFG,"LandAmerica Financial",1
+WGR,"Western Gas Resources",1
+HST,"Host Marriott",1
+URS,URS,1
+EAT,"Brinker International",1
+CQB,"Chiquita Brands Intl.",1
+EXPD,"Expeditors Intl. of Washington",1
+MXO,Maxtor,1
+GTW,Gateway,1
+AXE,"Anixter International",1
+WEC,"Wisconsin Energy",1
+PTRY,Pantry,1
+NMGA,"Neiman Marcus",1
+CNX,"Consol Energy",1
+ORI,"Old Republic Intl.",1
+CYH,"Community Health Sys.",1
+WEN,"Wendy's International",1
+CINF,"Cincinnati Financial",1
+PETM,PetSmart,1
+MTB,"M&T Bank Corp.",1
+PAS,PepsiAmericas,1
+LVLT,"Level 3 Communications",1
+MIK,"Michaels Stores",1
+LI,"Laidlaw International",1
+CMA,Comerica,1
+WDC,"Western Digital",1
+NTLID,NTL,1
+HMA,"Health Management Associates",1
+EOG,"EOG Resources",1
+OSI,"Outback Steakhouse",1
+GI,"Giant Industries",1
+SOV,"Sovereign Bancorp",1
+ACKHQ,"Armstrong Holdings",1
+NTRS,"Northern Trust Corp.",1
+WPO,"Washington Post",1
+GDT,Guidant,1
+ATI,"Allegheny Technologies",1
+WSM,Williams-Sonoma,1
+ACV,Alberto-Culver,1
+CA,CA,1
+SON,"Sonoco Products",1
+XTO,"XTO Energy",1
+WMG,"Warner Music Group",1
+NFB,"North Fork Bancorp.",1
+BOW,Bowater,1
+BMS,Bemis,1
+MDU,"MDU Resources Group",1
+BPOP,Popular,1
+PTV,Pactiv,1
+LNT,"Alliant Energy",1
+COL,"Rockwell Collins",1
+TWRAQ,"Tower Automotive",1
+HCR,"Manor Care",1
+SNV,"Synovus Financial Corp.",1
+ASO,"AmSouth Bancorp.",1
+DLTR,"Dollar Tree Stores",1
+AXL,"American Axle & Mfg.",1
+NYT,"New York Times",1
+"--Stater Bros. Holdings","Stater Bros. Holdings",0
+RS,"Reliance Steel & Alum.",1
+LII,"Lennox International",1
+GAS,Nicor,1
+RHI,"Robert Half Intl.",1
+LH,"Laboratory Corp. of America",1
+SGR,"Shaw Group",1
+SWK,"Stanley Works",1
+NLC,"Nalco Holding",1
+RL,"Polo Ralph Lauren",1
+ZMH,"Zimmer Holdings",1
+UVV,Universal,1
+NSIT,"Insight Enterprises",1
+VMC,"Vulcan Materials",1
+AYE,"Allegheny Energy",1
+BJS,"BJ Services",1
+NST,NSTAR,1
+FHN,"First  Horizon National Corp.",1
+FTI,"FMC Technologies",1
+--JohnsonDiversey,JohnsonDiversey,0
+HOC,Holly,1
+PCP,"Precision Castparts",1
+BCF,"Burlington Coat Factory",1
+DLM,"Del Monte Foods",1
+SWFT,"Swift Transportation",1
+SPG,"Simon Property Group",1
+BELM,"Bell Microproducts",1
+JAH,Jarden,1
+WGII,"Washington Group Intl.",1
+EOP,"Equity Office Properties",1
+FRX,"Forest Laboratories",1
+NC,"Nacco Industries",1
+"--FM Global","FM Global",0
+"--CH2M Hill","CH2M Hill",0
+NJR,"New Jersey Resources",1
+TE,"TECO Energy",1
+ERTS,"Electronic Arts",1
+JBHT,"J.B. Hunt Transport Svcs.",1
+TMK,Torchmark,1
+CEM,Chemtura,1
+ROC,"Rockwood Holdings",1
+EAGL,EGL,1
+PNW,"Pinnacle West Capital",1
+GME,GameStop,1
+HAS,Hasbro,1
+WOR,"Worthington Industries",1
+GGP,"General Growth Properties",1
+DVA,DaVita,1
+CTAS,Cintas,1
+"--Country Insurance & Financial Services","Country Insurance & Financial Services",0
+UTR,Unitrin,1
+ANAT,"American National Ins.",1
+XTXI,"Crosstex Energy",1
+HAR,"Harman Intl. Industries",1
+SRP,"Sierra Pacific Resources",1
+UTSI,UTStarcom,1
+KRI,Knight-Ridder,1
+MTH,"Meritage Homes",1
+HRS,Harris,1
+CYT,"Cytec Industries",1
+MCY,"Mercury General",1
+ENR,"Energizer Holdings",1
+LAD,"Lithia Motors",1
+ALK,"Alaska Air Group",1
+THG,"Hanover Insurance Group",1
+PSD,"Puget Energy",1
+RDK,Ruddick,1
+OSK,"Oshkosh Truck",1
+PNR,Pentair,1
+MA,MasterCard,1
+STJ,"St. Jude Medical",1
+BMHC,"Building Materials Holding",1
+"--CB Richard Ellis Group","CB Richard Ellis Group",0
+LUK,"Leucadia National",1
+TRN,"Trinity Industries",1
+HEW,"Hewitt Associates",1
+"--Unified Western Grocers","Unified Western Grocers",0
+RSG,"Republic Services",1
+RVI,"Retail Ventures",1
+SOA,Solutia,1
+ATK,"Alliant Techsystems",1
+ANF,"Abercrombie & Fitch",1
+HSC,Harsco,1
+CHRS,"Charming Shoppes",1
+LPX,Louisiana-Pacific,1
+GENZ,Genzyme,1
+"--CUNA Mutual Group","CUNA Mutual Group",0
+STR,Questar,1
+NRG,"NRG Energy",1
+ATG,"AGL Resources",1
+VAL,Valspar,1
+--Belk,Belk,0
+UFPI,"Universal Forest Prods.",1
+XIDE,"Exide Technologies",1
+SEB,Seaboard,1
+BRCM,Broadcom,1
+PSS,"Payless Shoesource",1
+BGG,"Briggs & Stratton",1
+"--Linens 'n Things","Linens 'n Things",0
+GVA,"Granite Construction",1
+TMO,"Thermo Electron",1
+TFX,Teleflex,1
+HSP,Hospira,1
+DKS,"Dick's Sporting Goods",1
+FLE,"Fleetwood Enterprises",1
+SCS,Steelcase,1
+ABM,"ABM Industries",1
+AGE,"A.G. Edwards",1
+PNX,Phoenix,1
+GXP,"Great Plains Energy",1
+WCI,"WCI Communities",1
+PGL,"Peoples Energy",1
+MKC,McCormick,1
+DBD,Diebold,1
+SYMC,Symantec,1
+CVG,Convergys,1
+POL,PolyOne,1
+GRA,"W.R. Grace",1
+CBRL,"CBRL Group",1
+THO,"Thor Industries",1
+RPM,"RPM International",1
+ET,"ETrade Financial",1
+CSL,Carlisle,1
+VNO,"Vornado Realty Trust",1
+MOLX,Molex,1
+TSG,"Sabre Holdings",1
+"--US Oncology","US Oncology",0
+CAM,"Cooper Cameron",1
+LSTR,"Landstar System",1
+RGC,"Regal Entertainment Group",1
+DST,"DST Systems",1
+SSP,"E.W. Scripps",1
+TSA,"Sports Authority",1
+ACI,"Arch Coal",1
+JBX,"Jack in the Box",1
+UAPH,"UAP Holding",1
+SLGN,"Silgan Holdings",1
+LM,"Legg Mason",1
+CASY,"Casey's General Stores",1
+CTL,CenturyTel,1
+IDTC,IDT,1
+HNI,HNI,1
+BEC,"Beckman Coulter",1
+NEW,"New Century Financial",1
+"--Solo Cup","Solo Cup",0
+STC,"Stewart Information Services",1
+ARS,"Aleris International",1
+GEF,Greif,1
+BIIB,"Biogen Idec",1
+PDCO,Patterson,1
+PXD,"Pioneer Natural Resources",1
+ARG,Airgas,1
+HAYZ,"Hayes Lemmerz",1
+RDA,"Reader's Digest Assn.",1
+ADI,"Analog Devices",1
+FBN,"Furniture Brands Intl.",1
+GPK,"Graphic Packaging",1
+ZLC,Zale,1
+BGC,"General Cable",1
+IGT,"International Game Technology",1
+NVDA,Nvidia,1
+SMG,"Scotts Miracle-Gro",1
+SNA,Snap-On,1
+CPO,"Corn Products Intl.",1
+ROV,"Spectrum Brands",1
+OLN,Olin,1
+MTW,Manitowoc,1
+KWD,Kellwood,1
+ZION,"Zions Bancorp",1
+TIF,Tiffany,1
+DRRA,"Dura Automotive Systems",1
+RCII,"Rent A Center",1
+BLDR,"Builders FirstSource",1
+SFG,"StanCorp Financial",1
+AGP,Amerigroup,1
+"--Sentry Insurance Group","Sentry Insurance Group",0
+AGN,Allergan,1
+BFB,Brown-Forman,1
+AEOS,"American Eagle Outfitters",1
+SNDK,SanDisk,1
+"--Gold Kist","Gold Kist",0
+KMT,Kennametal,1
+VSH,"Vishay Intertechnology",1
+BWS,"Brown Shoe",1
+MBI,MBIA,1
+HBAN,"Huntington Bancshares",1
+IMKTA,"Ingles Markets",1
+GGC,"Georgia Gulf",1
+AE,"Adams Resources & Engy.",1
+VHS,"Vanguard Health Systems",1
+"--Minnesota Life Ins.","Minnesota Life Ins.",0
+BHE,"Benchmark Electronics",1
+APOL,"Apollo Group",1
+CELL,Brightpoint,1
+PBY,"Pep Boys",1
+BYD,"Boyd Gaming",1
+WMK,"Weis Markets",1
+HE,"Hawaiian Electric Inds.",1
+MEE,"Massey Energy",1
+CBSS,"Compass Bancshares",1
+MKL,Markel,1
+RGS,Regis,1
+ILA,Aquila,1
+NBL,"Noble Energy",1
+WGL,"WGL Holdings",1
+STLD,"Steel Dynamics",1
+--Metaldyne,Metaldyne,0
+SJM,"J.M. Smucker",1
+VOL,"Volt Info. Sciences",1
+AYI,"Acuity Brands",1
+CZN,"Citizens Communications",1
+RJF,"Raymond James Financial",1
+CTB,"Cooper Tire & Rubber",1
+FMC,FMC,1
+CBT,Cabot,1
+UCI,UICI,1
+PL,"Protective Life",1
+CBH,"Commerce Bancorp",1
+ALB,Albemarle,1
+HUBB,Hubbell,1
+AMKR,"Amkor Technology",1
+INTU,Intuit,1
+KLAC,KLA-Tencor,1
+SCHL,Scholastic,1
+IRM,"Iron Mountain",1
+SYX,Systemax,1
+PNM,"PNM Resources",1
+ANN,"AnnTaylor Stores",1
+HPC,Hercules,1
+TSCO,"Tractor Supply",1
+JNPR,"Juniper Networks",1
+CR,Crane,1
+UNFI,"United Natural Foods",1
+WLT,"Walter Industries",1
+EQR,"Equity Residential",1
+LZB,La-Z-Boy,1
+NFG,"National Fuel Gas",1
+ORLY,"O'Reilly Automotive",1
+SPTN,"Spartan Stores",1
+"--True Value","True Value",0
+PDE,"Pride International",1
+CECO,"Career Education",1
+GILD,"Gilead Sciences",1
+VVC,Vectren,1
+SUG,"Southern Union",1
+MLM,"Martin Marietta Materials",1
+UHAL,Amerco,1
+SPSN,Spansion,1
+PER,"Perot Systems",1
+SQAA,Sequa,1
+NX,Quanex,1
+PETC,"Petco Animal Supplies",1
+PKG,"Packaging Corp. of America",1
+IFF,"Intl. Flavors & Frag.",1
+SFN,Spherion,1
+MOVI,"Movie Gallery",1
+APCC,"American Power Conversion",1
+WERN,"Werner Enterprises",1
+ADBE,"Adobe Systems",1
+SKYW,SkyWest,1
+ANDW,Andrew,1
+NTK,Nortek,1
+UVN,"Univision Communications",1
+TXI,"Texas Industries",1
+HB,"Hillenbrand Industries",1
+TRA,"Terra Industries",1
+AM,"American Greetings",1
+SEM,"Select Medical",1
+JOYG,"Joy Global",1
+CHIR,Chiron,1
+LSI,"LSI Logic",1
+NSM,"National Semiconductor",1
+--Scientific-Atlanta,Scientific-Atlanta,0
+PVH,"Phillips-Van Heusen",1
+CF,"CF Industries",1
+LPNT,"LifePoint Hospitals",1
+PLL,Pall,1
+PIR,"Pier 1 Imports",1
+CGI,"Commerce Group",1
+TLAB,Tellabs,1
+JAS,"Jo Ann Stores",1
+PLD,ProLogis,1
+BMET,Biomet,1
+WCG,"WellCare Health Plans",1
+PII,"Polaris Industries",1
+MVK,"Maverick Tube",1
+RUSHB,"Rush Enterprises",1
+"--Medical Mutual of Ohio","Medical Mutual of Ohio",0
+ABFS,"Arkansas Best",1
+PACR,"Pacer International",1
+PWR,"Quanta Services",1
+WLS,"William Lyon Homes",1
+TECUB,"Tecumseh Products",1
+ABI,Applera,1
+FGP,"Ferrellgas Partners",1
+SRZ,"Sunrise Senior Living",1
+MGLN,"Magellan Health Svcs.",1
+APH,Amphenol,1
+AEN,"AMC Entertainment",1
+NXTP,"Nextel Partners",1
+UST,UST,1
+DBQA,"Cabela's",1
+SPSX,"Superior Essex",1
+GTRC,"Guitar Center",1
+ZQK,Quiksilver,1
+TTC,Toro,1
+KG,"King Pharmaceuticals",1
+BCR,"C.R. Bard",1
+DJ,"Dow Jones",1
+SBL,"Symbol Technologies",1
+NDE,"Indymac Bancorp",1
+NFX,"Newfield Exploration",1
+PNY,"Piedmont Natural Gas",1
+RX,"IMS Health",1
+DLX,Deluxe,1
+CVO,Cenveo,1
+MARSA,"Marsh Supermarkets",1
+NIHD,"NII Holdings",1
+LVS,"Las Vegas Sands",1
+--Cleveland-Cliffs,Cleveland-Cliffs,0
+SCI,"Service Corp. Intl.",1
+NTY,NBTY,1
+CHD,"Church & Dwight",1
+JLG,"JLG Industries",1
+RKT,Rock-Tenn,1
+PCR,Perini,1
+MCO,"Moody's",1
+MLI,"Mueller Industries",1
+MW,"Men's Wearhouse",1
+AIT,"Applied Ind. Technologies",1
+FLO,"Flowers Foods",1
+XRAY,"Dentsply International",1
+SWX,"Southwest Gas",1
+"--Mutual of America Life","Mutual of America Life",0
+COH,Coach,1
+OCAS,"Ohio Casualty",1
+MTLM,"Metal Management",1
+JBLU,"Jetblue Airways",1
+PKI,PerkinElmer,1
+SIGI,"Selective Insurance Group",1
+TNB,"Thomas & Betts",1
+GHCI,"Genesis HealthCare",1
+AOS,"A.O. Smith",1
+MPS,"MPS Group",1
+WSO,Watsco,1
+AGR,"Agere Systems",1
+ATML,Atmel,1
+RAH,"Ralcorp Holdings",1
+MXIM,"Maxim Integrated Products",1
+PLCE,"Children's Place",1
+SIAL,Sigma-Aldrich,1
+ALEX,"Alexander & Baldwin",1
+ABK,"Ambac Financial Group",1
+VRSN,VeriSign,1
+"--Amica Mutual Insurance","Amica Mutual Insurance",0
+DEX,"Dex Media",1
+"--Dade Behring Holdings","Dade Behring Holdings",0
+MOH,"Molina Healthcare",1
+WPI,"Watson Pharmaceuticals",1
+HCC,"HCC Insurance Holdings",1
+AH,"Armor Holdings",1
+ANR,"Alpha Natural Resources",1
+CAI,CACI,1
+AGYS,Agilysys,1
+AIV,AIMCO,1
+SPH,"Suburban Propane Partners",1
+AMH,"AmerUs Group",1
+--Vertis,Vertis,0
+JOR,"Earle M. Jorgensen",1
+LECO,"Lincoln Electric Holdings",1
+NTAP,"Network Appliance",1
+LG,"Laclede Group",1
+DCI,Donaldson,1
+KMI,"Kinder Morgan",1
+CAO,"CSK Auto",1
+BTH,Blyth,1
+DRD,"Duane Reade",1
+WR,"Westar Energy",1
+PCL,"Plum Creek Timber",1
+XLNX,Xilinx,1
+RCI,"Renal Care Group",1
+BN,Banta,1
+TBL,Timberland,1
+XJT,"ExpressJet Holdings",1
+WPSC,"Wheeling Pittsburgh",1
+USU,USEC,1
+POOL,"SCP Pool",1
+ADS,"Alliance Data Systems",1
+SHS,Sauer-Danfoss,1
+MOD,"Modine Manufacturing",1
+FRED,"Fred's",1
+"--Knights of Columbus","Knights of Columbus",0
+TMA,"Thornburg Mortgage",1
+CKR,"CKE Restaurants",1
+OIS,"Oil States International",1
+HUBG,"Hub Group",1
+IVC,Invacare,1
+MTG,"MGIC Investment",1
+WSTC,West,1
+"--Iasis Healthcare","Iasis Healthcare",0
+FAST,Fastenal,1
+ADSK,Autodesk,1
+DTG,"Dollar Thrifty Automotive",1
+BLC,Belo,1
+TROW,"T. Rowe Price",1
+MLHR,"Herman Miller",1
+FUL,"H.B. Fuller",1
+DPZ,"Domino's Pizza",1
+CNC,Centene,1
+WRNC,"Warnaco Group",1
+LRCX,"Lam Research",1
+"--Federated Mutual Ins.","Federated Mutual Ins.",0
+JEF,"Jefferies Group",1
+PCH,Potlatch,1
+AJG,"Arthur J. Gallagher",1
+ANT,"Anteon International",1
+PENN,"Penn National Gaming",1
+MTD,"Mettler-Toledo International",1
+SMRT,"Stein Mart",1
+PPP,"Pogo Producing",1
+AHG,"Apria Healthcare Group",1
+PSSI,"PSS World Medical",1
+TPX,Sealy,1
+SCSC,ScanSource,1
+ABXA,"ABX Air",1
+BMC,"BMC Software",1
+BOBE,"Bob Evans Farms",1
+CEN,Ceridian,1
+ROP,"Roper Industries",1
+ACF,AmeriCredit,1
+AAI,"Airtran Holdings",1
+BXP,"Boston Properties",1
+PAYX,Paychex,1
+PCCC,"PC Connection",1
+DNB,"Dun & Bradstreet",1
+EFX,Equifax,1
+A.,"Schulman ",1
+RML,Russell,1
+AME,Ametek,1
+XOHO,"XO Communications",1
+SEBL,"Siebel Systems",1
+RBC,Regal-Beloit,1
+LEHMQ,"Lehman Brothers Holdings",1
+FMCKJ,"Freddie Mac",1
+HES,Hess,1
+PA9,"Travelers Cos.",1
+"--Massachusetts Mutual Life Insurance","Massachusetts Mutual Life Insurance",0
+"--Enterprise GP Holdings","Enterprise GP Holdings",0
+"--S&C Holdco 3","S&C Holdco 3",0
+AMP,"Ameriprise Financial",1
+SAI,SAIC,1
+HTZ,"Hertz Global Holdings",1
+ETE,"Energy Transfer Equity",1
+TEG,"Integrys Energy Group",1
+VMED,"Virgin Media",1
+"--Estée Lauder","Estée Lauder",0
+--Realogy,Realogy,0
+SNX,Synnex,1
+"--Boise Cascade Holdings","Boise Cascade Holdings",0
+CAR,"Avis Budget Group",1
+"--Host Hotels & Resorts","Host Hotels & Resorts",0
+GLP,"Global Partners",1
+WU,"Western Union",1
+TDS,"Telephone & Data Sys.",1
+CNW,Con-way,1
+WNR,"Western Refining",1
+CORE,"Core-Mark Holding",1
+--Sirva,Sirva,0
+"--OSI Restaurant Partners","OSI Restaurant Partners",0
+URI,"United Rentals",1
+ETFC,"E*Trade Financial",1
+WYN,"Wyndham Worldwide",1
+LYV,"Live Nation",1
+AWI,"Armstrong World Industries",1
+BONT,"Bon-Ton Stores",1
+"--VWR International","VWR International",0
+HLS,HealthSouth,1
+FLS,Flowserve,1
+"--Interstate Bakeries","Interstate Bakeries",0
+"--Linens Holding","Linens Holding",0
+"--US Oncology Holdings","US Oncology Holdings",0
+PTEN,"Patterson -UTI Energy",1
+WLK,"Westlake Chemical",1
+NYX,"NYSE Euronext",1
+"--National Life Group","National Life Group",0
+EXPE,Expedia,1
+"--American Home Mortgage Holdings","American Home Mortgage Holdings",0
+AOI,"Alliance One International",1
+COSHW,"Cooper-Standard Holdings",1
+"--Affinia Group Intermediate Holdings","Affinia Group Intermediate Holdings",0
+"--NewPage Holding","NewPage Holding",0
+AMTD,"TD Ameritrade",1
+MNI,McClatchy,1
+BLK,BlackRock,1
+SUSS,"Susser Holdings",1
+BKC,"Burger King Holdings",1
+FOE,Ferro,1
+JLL,"Jones Lang LaSalle",1
+--DynCorp,DynCorp,0
+ACCO,"ACCO Brands",1
+--Donnelly,Donnelly,0
+NNI,Nelnet,1
+SCHN,"Schnitzer Steel Industries",1
+"--Source Interlink Cos.","Source Interlink Cos.",0
+"--Grant Prideco","Grant Prideco",0
+"--Petro Stopping Centers","Petro Stopping Centers",0
+"--ENSCO International","ENSCO International",0
+MUSA,"Metals USA",1
+"--Goodman Global","Goodman Global",0
+--Cephalon,Cephalon,0
+TUP,"Tupperware Brands",1
+"--DRS Technologies","DRS Technologies",0
+"--Sierra Health Services","Sierra Health Services",0
+"--Hanover Compressor","Hanover Compressor",0
+GDI,"Gardner Denver",1
+"--Kansas City So. Industries","Kansas City So. Industries",0
+NVLS,"Novellus Systems",1
+"--Nasdaq Stock Market","Nasdaq Stock Market",0
+"--Fairchild Semicond. Intl.","Fairchild Semicond. Intl.",0
+CBCDQ,"Colonial Bancgroup",1
+CLMT,"Calumet Specialty Products",1
+GFF,Griffon,1
+--Commscope,Commscope,0
+CENT,"Central Garden & Pet",1
+HCBK,"Hudson City Bancorp",1
+ATR,AptarGroup,1
+VAR,"Varian Medical Systems",1
+MDP,Meredith,1
+AVRW,"Aventine Renewable Energy Holdings",1
+--Viewsonic,Viewsonic,0
+IMN,Imation,1
+PALM,Palm,1
+ASBC,"Associated Banc",1
+VHI,Valhi,1
+NCS,"NCI Building Systems",1
+"--International Business Machines","International Business Machines",0
+"--State Farm Insurance Cos.","State Farm Insurance Cos.",0
+FNMAS,"Fannie Mae",1
+KRFT,"Kraft Foods",1
+GOM,GMAC,1
+M,"Macy's",1
+"--Liberty Mutual Insurance Group","Liberty Mutual Insurance Group",0
+"--DirecTV Group","DirecTV Group",0
+"--United Services Automobile Assn.","United Services Automobile Assn.",0
+XKE,"Toys 'R' Us",1
+OKS,Oneok,1
+PAG,"Penske Automotive Group",1
+KCG,Knight,1
+--Trane,Trane,0
+"--Guardian Life Ins. Co. of America","Guardian Life Ins. Co. of America",0
+DAN,"Dana Holding",1
+KBR,KBR,1
+"--Energy Future Holdings","Energy Future Holdings",0
+NGLS,"Targa Resources",1
+"--American Family Insurance Group","American Family Insurance Group",0
+"--Great Atlantic & Pacific Tea","Great Atlantic & Pacific Tea",0
+FJA,Embarq,1
+TA,"TravelCenters of America",1
+"--Affiliated Computer Services","Affiliated Computer Services",0
+"--Western & Southern Financial Group","Western & Southern Financial Group",0
+FIS,"Fidelity National Information Services",1
+SE,"Spectra Energy",1
+HBI,Hanesbrands,1
+"--International Assets Holding","International Assets Holding",0
+"--Mutual of Omaha Insurance","Mutual of Omaha Insurance",0
+ACM,"AECOM Technology",1
+--AbitibiBowater,AbitibiBowater,0
+"--LandAmerica Financial Group","LandAmerica Financial Group",0
+"--VWR Funding","VWR Funding",0
+--BearingPoint,BearingPoint,0
+"--Corn Products International","Corn Products International",0
+WIN,Windstream,1
+"--American Axle & Manufacturing","American Axle & Manufacturing",0
+--Idearc,Idearc,0
+"--Country Insurance & Fin. Svcs.","Country Insurance & Fin. Svcs.",0
+BERY,"Berry Plastics Group",1
+BX,"Blackstone Group",1
+UAM,"Universal American",1
+IEP,"Icahn Enterprises",1
+CVI,"CVR Energy",1
+PHH,PHH,1
+"--Securian Financial Group","Securian Financial Group",0
+WYNN,"Wynn Resorts",1
+"--R.H. Donnelley","R.H. Donnelley",0
+MYL,Mylan,1
+"--Barr Pharmaceuticals","Barr Pharmaceuticals",0
+EXH,"Exterran Holdings",1
+SBH,"Sally Beauty Holdings",1
+"--Graham Packaging","Graham Packaging",0
+NDAQ,"Nasdaq OMX Group",1
+NLY,"Annaly Capital Management",1
+ANDE,Andersons,1
+VISI,"Volt Information Sciences",1
+"--Service Corp. International","Service Corp. International",0
+"--International Flavors & Fragrances","International Flavors & Fragrances",0
+VCI,"Valassis Communications",1
+"--MetroPCS Communications","MetroPCS Communications",0
+CTSH,"Cognizant Technology Solutions",1
+RDC,Rowan,1
+"--DynCorp International","DynCorp International",0
+BDC,Belden,1
+"--Source Interlink","Source Interlink",0
+HRC,"Hill-Rom Holdings",1
+IBKR,"Interactive Brokers Group",1
+IDMPQ,"IndyMac Bancorp",1
+CRS,"Carpenter Technology",1
+CACI,"CACI International",1
+--CommScope,CommScope,0
+"--MEMC Electronic Materials","MEMC Electronic Materials",0
+--HealthExtras,HealthExtras,0
+MWA,"Mueller Water Products",1
+BKD,"Brookdale Senior Living",1
+"--Baldor Electric","Baldor Electric",0
+"--Public Storage","Public Storage",0
+CENX,"Century Aluminum",1
+"--A. Schulman","A. Schulman",0
+RRR,"RSC Holdings",1
+HLX,"Helix Energy Solutions Group",1
+CME,"CME Group",1
+GES,Guess,1
+OII,"Oceaneering International",1
+POR,"Portland General Electric",1
+KSU,"Kansas City Southern",1
+"--Chaparral Steel","Chaparral Steel",0
+MSM,"MSC Industrial Direct",1
+"--Duane Reade Holdings","Duane Reade Holdings",0
+CNK,"Cinemark Holdings",1
+"--New York Community Bancorp","New York Community Bancorp",0
+"--BE Aerospace","BE Aerospace",0
+FCS,"Fairchild Semiconductor Intl.",1
+DRC,"Dresser-Rand Group",1
+KEG,"Key Energy Services",1
+SUNH,"Sun Healthcare Group",1
+CPX,"Complete Production Services",1
+BECN,"Beacon Roofing Supply",1
+CVD,Covance,1
+LEAP,"Leap Wireless International",1
+HP,"Helmerich & Payne",1
+PM,"Philip Morris International",1
+"--United Services Automobile Association","United Services Automobile Association",0
+DFS,"Discover Financial Services",1
+CCMO,"CC Media Holdings",1
+UFS,Domtar,1
+V,Visa,1
+DPS,"Dr Pepper Snapple Group",1
+NS,"NuStar Energy",1
+"--Unified Grocers","Unified Grocers",0
+DISCA,"Discovery Communications",1
+DJTFVS,"Jones Financial",1
+CLF,"Cliffs Natural Resources",1
+"--NV Energy","NV Energy",0
+"--Country Ins. & Financial Services","Country Ins. & Financial Services",0
+"--United Refining","United Refining",0
+"--VeraSun Energy","VeraSun Energy",0
+ATVI,"Activision Blizzard",1
+HSNI,HSN,1
+"--Buildings Materials Corp. of America","Buildings Materials Corp. of America",0
+WBC,"WABCO Holdings",1
+"--AirTran Holdings","AirTran Holdings",0
+CHSI,"Catalyst Health Solutions",1
+"--Bucyrus International","Bucyrus International",0
+BZ,Boise,1
+"--Plains Exploration and Production","Plains Exploration and Production",0
+"--Intl. Flavors & Fragrances","Intl. Flavors & Fragrances",0
+"--Applied Biosystems","Applied Biosystems",0
+"--NTK Holdings","NTK Holdings",0
+SWN,"Southwestern Energy",1
+CELG,Celgene,1
+FTR,"Frontier Communications",1
+"--Rowan Cos.","Rowan Cos.",0
+HS,HealthSpring,1
+"--Atlas America","Atlas America",0
+"--ON Semiconductor","ON Semiconductor",0
+ENS,Enersys,1
+XEC,"Cimarex Energy",1
+PMC,PharMerica,1
+TSS,"Total System Services",1
+LKQ,LKQ,1
+ITRI,Itron,1
+VMI,"Valmont Industries",1
+"--M&F Worldwide","M&F Worldwide",0
+MOG.A,Moog,1
+"--Jo-Ann Stores","Jo-Ann Stores",0
+"--Buckeye GP Holdings","Buckeye GP Holdings",0
+TDY,"Teledyne Technologies",1
+"--Aéropostale","Aéropostale",0
+PCLN,Priceline.com,1
+SPN,"Superior Energy Services",1
+"--Inergy Holdings","Inergy Holdings",0
+"--Kinetic Concepts","Kinetic Concepts",0
+MANT,"ManTech International",1
+LPS,"Lender Processing Services",1
+"--RBS Global","RBS Global",0
+PLXS,Plexus,1
+URBN,"Urban Outfitters",1
+CW,Curtiss-Wright,1
+"--Wendy's/Arby's Group","Wendy's/Arby's Group",0
+PRGO,Perrigo,1
+RDN,"Radian Group",1
+"--Michael Foods","Michael Foods",0
+CY,"Cypress Semiconductor",1
+"--Vought Aircraft Industries","Vought Aircraft Industries",0
+"--Psychiatric Solutions","Psychiatric Solutions",0
+"--KAR Holdings","KAR Holdings",0
+VRS,"Verso Paper",1
+BIO,"Bio-Rad Laboratories",1
+TDC,Teradata,1
+"--Watson Wyatt Worldwide","Watson Wyatt Worldwide",0
+EROC,"Eagle Rock Energy Partners",1
+OMG,"OM Group",1
+--Administaff,Administaff,0
+SAFM,"Sanderson Farms",1
+TWC,"Time Warner Cable",1
+RGA,"Reinsurance Group of America",1
+TPC,"Tutor Perini",1
+SPGZ,"Spectrum Group International",1
+"--INTL FCStone","INTL FCStone",0
+"--Chrysler Group","Chrysler Group",0
+"--Enterprise Products Partners","Enterprise Products Partners",0
+--DirecTV,DirecTV,0
+UAL,"United Continental Holdings",1
+MSI,"Motorola Solutions",1
+GMA,"Ally Financial",1
+NEE,"NextEra Energy",1
+KKR,KKR,1
+CZR,"Caesars Entertainment",1
+"--Est&#233;e Lauder","Est&#233;e Lauder",0
+"--Momentive Specialty Chemicals","Momentive Specialty Chemicals",0
+BAH,"Booz Allen Hamilton Holding",1
+MTOR,Meritor,1
+MPC,"Marathon Petroleum",1
+"--Express Scripts Holding","Express Scripts Holding",0
+HFC,HollyFrontier,1
+MMI,"Motorola Mobility Holdings",1
+LINTA,"Liberty Interactive",1
+CBG,"CBRE Group",1
+XLS,Exelis,1
+MRC,"MRC Global",1
+PSX,"Phillips 66",1
+"--Mondelēz International","Mondelēz International",0
+PBF,"PBF Energy",1
+HSH,"Hillshire Brands",1
+"--HD Supply","HD Supply",0
+HII,"Huntington Ingalls Industries",1
+INGR,Ingredion,1
+ACT,Actavis,1
+FB,Facebook,1
