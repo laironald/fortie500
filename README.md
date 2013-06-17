@@ -15,6 +15,5 @@ Sequence
 
 Useful websites:
 
-    [http://names.mongabay.com/data/asian_pacific_islander.html](http://names.mongabay.com/data/asian_pacific_islander.html)
-
-    [Edgar](http://yahoo.brand.edgar-online.com/default.aspx?cik=1011006)
+ * [Asian List](http://names.mongabay.com/data/asian_pacific_islander.html)
+ * [Edgar](http://yahoo.brand.edgar-online.com/default.aspx?cik=1011006)
