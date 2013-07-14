@@ -108,23 +108,23 @@ def parseFile(fname, year_id=None):
     if not year_id:
         year_id = fname[-8:-4]
 
-    f = open(fname)
+    f = open(fname, "rb")
     if fname[-3:] == "txt":
         format = "txt"
         lines = f.read().split("\n")
     elif fname[-3:] == "csv":
         format = "csv"
-        lines = csv.reader(fname)
+        lines = csv.reader(f)
 
     for i, row in enumerate(lines):
         if i == 0 or not row:
             continue
-        row = re.sub(" *[\t] *", "\t", row).strip()
-        row = row.replace("&amp;", "&")
-        row = row.replace("&quot;", '"')
         if format == "txt":
+            row = re.sub(" *[\t] *", "\t", row).strip()
+            row = row.replace("&amp;", "&")
+            row = row.replace("&quot;", '"')
             seq, url, name = row.split("\t")
-        else:
+        elif format == "csv":
             seq, name = row[:2]
             url = ""
 
@@ -180,7 +180,7 @@ def parseFile(fname, year_id=None):
 parseFile(fname="output/f500-2006.txt")
 for fname in glob.glob("output/*.txt"):
     parseFile(fname=fname)
-#parseFile(fname="2013-SK.csv", 2013)
+parseFile(fname="output/2013-SK.csv", year_id="2013_new")
 
 
 conn.commit()
