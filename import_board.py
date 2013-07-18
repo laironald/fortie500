@@ -33,7 +33,7 @@ c.executescript("""
         idx_idx7 ON f500_person_company_link (company_id);
     CREATE INDEX IF NOT EXISTS
         idx_idx8 ON f500_person_company_link (person_id);
-    CREATE UNIQUE INDEX IF NOT EXISTS
+    CREATE INDEX IF NOT EXISTS
         idx_idx9 ON f500_person_company_link (company_id, person_id);
     """)
 

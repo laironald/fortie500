@@ -48,7 +48,7 @@ c.executescript("""
         idx_idx2 ON f500_company_year_link (company_id);
     CREATE INDEX IF NOT EXISTS
         idx_idx3 ON f500_company_year_link (year_id);
-    CREATE UNIQUE INDEX IF NOT EXISTS
+    CREATE INDEX IF NOT EXISTS
         idx_idx4 ON f500_company_year_link (company_id, year_id);
 
 
