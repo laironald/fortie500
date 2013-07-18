@@ -121,7 +121,6 @@ def getBoard(ticker):
 c.execute("""
     SELECT  company_id
       FROM  f500_company_object
-     WHERE  ticker
     """)
 for ticker in c.fetchall():
     getBoard(ticker[0])
