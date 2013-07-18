@@ -38,6 +38,25 @@ c.executescript("""
     """)
 
 
+def getUrl(url):
+    c.execute("""
+        SELECT content FROM pageHash WHERE url=?
+        """, (url,))
+    content = c.fetchone()
+    if not content:
+        res = urllib2.urlopen(url)
+        content = "".join([r for r in res])
+        c.execute("""
+            INSERT OR IGNORE INTO pageHash
+            (url, content) VALUES (?, ?)
+            """, (url, content))
+        time.sleep(0.5)
+        print "fetch", url
+    else:
+        content = content[0]
+    return content
+
+
 def getGender(biography):
     if not biography:
         return ""
@@ -66,7 +85,7 @@ def getBoard(ticker):
         return
     print ticker
     try:
-        res = urllib2.urlopen(boardURL.format(ticker))
+        res = getUrl(boardURL.format(ticker))
     except:
         print "500 error?"
         return
@@ -121,6 +140,7 @@ def getBoard(ticker):
 c.execute("""
     SELECT  company_id
       FROM  f500_company_object
+     WHERE  ticker = 1
     """)
 for ticker in c.fetchall():
     getBoard(ticker[0])

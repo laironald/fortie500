@@ -29,7 +29,6 @@ def getUrl(url):
             (url, content) VALUES (?, ?)
             """, (url, content))
         time.sleep(0.5)
-        print "fetch"
     else:
         content = content[0]
     return content
@@ -92,7 +91,7 @@ def companyFix(fname):
           FROM  companyHash
          WHERE  substr(company_id, 1, 1) <> '|';
         INSERT OR IGNORE INTO f500_company_object
-        SELECT  company_id, name, 1
+        SELECT  company_id, name, 0
           FROM  companyHash
          WHERE  substr(company_id, 1, 1) = '|';
         """)
