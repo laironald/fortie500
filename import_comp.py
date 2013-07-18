@@ -1,9 +1,7 @@
-import csv
 import re
 import sqlite3
 import urllib
 import urllib2
-import unidecode
 import json
 import glob
 import time
