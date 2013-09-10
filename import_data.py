@@ -180,7 +180,8 @@ def parseFile(fname, year_id=None):
 parseFile(fname="output/f500-2006.txt")
 for fname in glob.glob("output/*.txt"):
     parseFile(fname=fname)
-parseFile(fname="output/2013-SK.csv", year_id="2013_new")
+# parseFile(fname="output/2013-SK.csv", year_id="2013_new")
+parseFile(fname="output/f1000-2013.csv", year_id="2013")
 
 
 conn.commit()
